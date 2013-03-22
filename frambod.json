@@ -1,0 +1,70 @@
+{
+  "A": {
+    "url": "http://www.bjortframtid.is", 
+    "name": "Björt framtíð"
+  }, 
+  "C": {
+    "url": "http://www.xc.is/", 
+    "name": "Samstaða - flokkur lýðræðis og velferðar"
+  }, 
+  "B": {
+    "url": "http://www.framsokn.is/", 
+    "name": "Framsóknarflokkur"
+  }, 
+  "E": {
+    "url": "http://bjartsyni.is/bjartsyni.pdf", 
+    "name": "Bjartsýnisflokkurinn"
+  }, 
+  "D": {
+    "url": "http://www.xd.is/", 
+    "name": "Sjálfstæðistflokkur"
+  }, 
+  "G": {
+    "url": "http://www.afram-island.is/", 
+    "name": "Hægri grænir, flokkur fólksins"
+  }, 
+  "F": {
+    "url": "http://www.xf.is/", 
+    "name": "Frjálslyndi flokkurinn"
+  }, 
+  "I": {
+    "url": "http://www.facebook.com/Lydveldisflokkurinn", 
+    "name": "Lýðveldisflokkurinn"
+  }, 
+  "H": {
+    "url": "http://www.facebook.com/pages/H%C3%BAmanistaflokkurinn/200634836628989", 
+    "name": "Húmanistaflokkurinn"
+  }, 
+  "K": {
+    "url": "", 
+    "name": "Framfaraflokkurinn"
+  }, 
+  "L": {
+    "url": "http://xlvaktin.is", 
+    "name": "Lýðræðisvaktin"
+  }, 
+  "P": {
+    "url": "http://www.facebook.com/pages/L%C3%BD%C3%B0r%C3%A6%C3%B0ishreyfingin/43832314310", 
+    "name": "Lýðræðishreyfingin"
+  }, 
+  "S": {
+    "url": "http://www.samfylkingin.is/", 
+    "name": "Samfylkingin"
+  }, 
+  "R": {
+    "url": "http://www.althydufylkingin.blogspot.com/", 
+    "name": "Alþýðufylkingin"
+  }, 
+  "T": {
+    "url": "http://www.xdogun.is/", 
+    "name": "Dögun - stjórnmálasamtök um réttlæti, sanngirni og lýðræði"
+  }, 
+  "V": {
+    "url": "http://www.vg.is/", 
+    "name": "Vinstrihreyfingin - grænt framboð"
+  }, 
+  "Þ": {
+    "url": "http://www.piratar.is/", 
+    "name": "Píratar"
+  }
+}
