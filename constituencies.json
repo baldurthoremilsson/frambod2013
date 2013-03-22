@@ -1,0 +1,106 @@
+{
+  "Reykjavíkurkjördæmi suður": {
+    "url": "http://www.kosning.is/althingiskosningar/kjordaemi/reykjavik-sudur/", 
+    "municipalities": [
+      "Reykjavík"
+    ]
+  }, 
+  "Suðurkjördæmi": {
+    "url": "http://www.kosning.is/althingiskosningar/kjordaemi/sudurkjordaemi/", 
+    "municipalities": [
+      "Sveitarfélagið Hornafjörður", 
+      "Skaftárhreppur", 
+      "Mýrdalshreppur", 
+      "Rangárþing eystra", 
+      "Rangárþing ytra", 
+      "Ásahreppur", 
+      "Vestmannaeyjabær", 
+      "Flóahreppur", 
+      "Sveitarfélagið Árborg", 
+      "Skeiða- og Gnúpverjahreppur", 
+      "Hrunamannahreppur", 
+      "Bláskógabyggð", 
+      "Grímsnes- og Grafningshreppur", 
+      "Hveragerðisbær", 
+      "Sveitarfélagið Ölfus", 
+      "Grindavíkurbær", 
+      "Sandgerðisbær", 
+      "Sveitarfélagið Garður", 
+      "Reykjanesbær", 
+      "Sveitarfélagið Vogar"
+    ]
+  }, 
+  "Norðausturkjördæmi": {
+    "url": "http://www.kosning.is/althingiskosningar/kjordaemi/nordausturkjordaemi/", 
+    "municiapalities": [
+      "Fjallabyggð", 
+      "Dalvíkurbyggð", 
+      "Hörgársveit", 
+      "Akureyrarkaupstaður", 
+      "Eyjafjarðarsveit", 
+      "Svalbarðsstrandarhreppur", 
+      "Grýtubakkahreppur", 
+      "Þingeyjarsveit", 
+      "Skútustaðahreppur", 
+      "Norðurþing", 
+      "Tjörneshreppur", 
+      "Svalbarðshreppur", 
+      "Langanesbyggð", 
+      "Vopnafjarðarhreppur", 
+      "Fljótsdalshérað", 
+      "Fljótsdalshreppur", 
+      "Borgarfjarðarhreppur", 
+      "Seyðisfjarðarkaupstaður", 
+      "Fjarðabyggð", 
+      "Breiðdalshreppur", 
+      "Djúpavogshreppur"
+    ]
+  }, 
+  "Suðvesturkjördæmi": {
+    "url": "http://www.kosning.is/althingiskosningar/kjordaemi/sudvesturkjordaemi/", 
+    "municipalities": [
+      "Hafnarfjarðarkaupstaður", 
+      "Garðabær", 
+      "Kópavogsbær", 
+      "Seltjarnarneskaupstaður", 
+      "Mosfellsbær", 
+      "Kjósarhreppur"
+    ]
+  }, 
+  "Reykjavíkurkjördæmi norður": {
+    "url": "http://www.kosning.is/althingiskosningar/kjordaemi/reykjavik-nordur/", 
+    "municipalities": [
+      "Reykjavík"
+    ]
+  }, 
+  "Norðvesturkjördæmi": {
+    "url": "http://www.kosning.is/althingiskosningar/kjordaemi/nordvesturkjordaemi/", 
+    "municipalities": [
+      "Akraneskaupstaður", 
+      "Hvalfjarðarsveit", 
+      "Skorradalshreppur", 
+      "Borgarbyggð", 
+      "Eyja- og Miklaholtshreppur", 
+      "Snæfellsbær", 
+      "Grundarfjarðarbær", 
+      "Helgafellssveit", 
+      "Stykkishólmsbær", 
+      "Dalabyggð", 
+      "Reykhólahreppur", 
+      "Vesturbyggð", 
+      "Tálknafjarðarhreppur", 
+      "Bolungarvíkurkaupstaður", 
+      "Ísafjarðarbær", 
+      "Súðavíkurhreppur", 
+      "Árneshreppur", 
+      "Kaldrananeshreppur", 
+      "Húnaþing vestra", 
+      "Húnavatnshreppur", 
+      "Blönduósbær", 
+      "Skagabyggð", 
+      "Sveitarfélagið Skagaströnd", 
+      "Sveitarfélagið Skagafjörður", 
+      "Akrahreppur"
+    ]
+  }
+}
