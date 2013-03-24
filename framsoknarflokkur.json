@@ -1,5 +1,424 @@
 {
-  "letter": "B",
-  "name": "Framsóknarflokkur",
-  "url": "http://www.framsokn.is/"
+  "url": "http://www.framsokn.is/", 
+  "candidates": {
+    "url": "http://www.framsokn.is/KOSNINGAR_2013",
+    "constituencies": [
+      {
+        "list": [
+          {
+            "name": "Vigdís Hauksdóttir"
+          }, 
+          {
+            "name": "Karl Garðarsson"
+          }, 
+          {
+            "name": "Sveinbjörg Birna Sveinbjörnsdóttir"
+          }, 
+          {
+            "name": "Jóhanna Kristín Björnsdóttir"
+          }, 
+          {
+            "name": "Hafsteinn Ágústsson"
+          }, 
+          {
+            "name": "Sunna Gunnars Marteinsdóttir"
+          }, 
+          {
+            "name": "Ragnar Rögnvaldsson"
+          }, 
+          {
+            "name": "Kjartan Þór Ingason"
+          }, 
+          {
+            "name": "Steinunn Anna Baldvinsdóttir"
+          }, 
+          {
+            "name": "Eyjólfur Scheving Magnússon"
+          }, 
+          {
+            "name": "Valgerður Sveinsdóttir"
+          }, 
+          {
+            "name": "Einar Björn Bjarnason"
+          }, 
+          {
+            "name": "Rakel Dögg Óskarsdóttir"
+          }, 
+          {
+            "name": "Kristján Hall"
+          }, 
+          {
+            "name": "Brandur Gíslason"
+          }, 
+          {
+            "name": "Agnes Guðnadóttir"
+          }, 
+          {
+            "name": "Hörður Gunnarsson"
+          }, 
+          {
+            "name": "Brynjar Fransson"
+          }, 
+          {
+            "name": "Ragnhildur Jónasdóttir"
+          }, 
+          {
+            "name": "Alfreð Þorsteinsson"
+          }, 
+          {
+            "name": "Áslaug Brynjólfsdóttir"
+          }, 
+          {
+            "name": "Tómas Árnason"
+          }
+        ], 
+        "name": "Reykjavíkurkjördæmi suður",
+        "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Reykjavik_sudur"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Sigurður Ingi Jóhannsson"
+          }, 
+          {
+            "name": "Silja Dögg Gunnarsdóttir"
+          }, 
+          {
+            "name": "Páll Jóhann Pálsson"
+          }, 
+          {
+            "name": "Haraldur Einarsson"
+          }, 
+          {
+            "name": "Fjóla Hrund Björnsdóttir"
+          }, 
+          {
+            "name": "Sandra Rán Ásgrímsdóttir"
+          }, 
+          {
+            "name": "Sigrún Gísladóttir"
+          }, 
+          {
+            "name": "Jónatan Guðni Jónsson"
+          }, 
+          {
+            "name": "Ingveldur Guðjónsdóttir"
+          }, 
+          {
+            "name": "Sigurjón Fannar Ragnarsson"
+          }, 
+          {
+            "name": "Anna Björg Níelsdóttir"
+          }, 
+          {
+            "name": "Lúðvík Bergmann"
+          }, 
+          {
+            "name": "Þórhildur Inga Ólafsdóttir"
+          }, 
+          {
+            "name": "Sæbjörg Erlingsdóttir"
+          }, 
+          {
+            "name": "Guðmundur Ómar Helgason"
+          }, 
+          {
+            "name": "Ragnar Magnússon"
+          }, 
+          {
+            "name": "Ásthildur Ýr Gísladóttir"
+          }, 
+          {
+            "name": "Reynir Arnarson"
+          }, 
+          {
+            "name": "Þorvaldur Guðmundsson"
+          }, 
+          {
+            "name": "Guðmundur Elíasson"
+          }
+        ], 
+        "name": "Suðurkjördæmi",
+        "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Sudur"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Sigmundur Davíð Gunnlaugsson"
+          }, 
+          {
+            "name": "Höskuldur  Þórhallsson"
+          }, 
+          {
+            "name": "Líneik Anna Sævarsdóttir"
+          }, 
+          {
+            "name": "Þórunn Egilsdóttir"
+          }, 
+          {
+            "name": "Hjálmar Bogi Hafliðason"
+          }, 
+          {
+            "name": "Guðmundur Gíslason"
+          }, 
+          {
+            "name": "Katrín Freysdóttir"
+          }, 
+          {
+            "name": "Bjarnveig Ingvadóttir"
+          }, 
+          {
+            "name": "Aðalsteinn Júlíusson"
+          }, 
+          {
+            "name": "Helgi Haukur Hauksson"
+          }, 
+          {
+            "name": "Birkir Jón Jónsson"
+          }, 
+          {
+            "name": "Jósef Auðunn Friðriksson"
+          }, 
+          {
+            "name": "Sigríður Bergvinsdóttir"
+          }, 
+          {
+            "name": "Eydís Bára Jóhannsdóttir"
+          }, 
+          {
+            "name": "Guðrún María Valgeirsdóttir"
+          }, 
+          {
+            "name": "Sveinbjörn Árni Lund"
+          }, 
+          {
+            "name": "Sólrún Hauksdóttir"
+          }, 
+          {
+            "name": "Vilhjálmur Jónsson"
+          }, 
+          {
+            "name": "Ari Teitsson"
+          }, 
+          {
+            "name": "Valgerður Sverrisdóttir"
+          }
+        ], 
+        "name": "Norðausturkjördæmi",
+        "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Nordaustur"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Eygló Harðardóttir"
+          }, 
+          {
+            "name": "Willum Þór Þórsson "
+          }, 
+          {
+            "name": "Þorsteinn Sæmundsson"
+          }, 
+          {
+            "name": "Sigurjón Norberg Kjærnested"
+          }, 
+          {
+            "name": "Ólöf Pálína Úlfarsdóttir "
+          }, 
+          {
+            "name": "Elín jóhannsdóttir"
+          }, 
+          {
+            "name": "Óðinn Pétur Vigfússon"
+          }, 
+          {
+            "name": "Njóla Elísdóttir"
+          }, 
+          {
+            "name": "Sigurjón Jónsson"
+          }, 
+          {
+            "name": "Einar Karl Birgisson"
+          }, 
+          {
+            "name": "Guðrún Lisbeth Níelsdóttir"
+          }, 
+          {
+            "name": "Þórunn Kolbeins Matthíasdóttir"
+          }, 
+          {
+            "name": "Garðar Jóhannsson"
+          }, 
+          {
+            "name": "Katrín Guðjónsdóttir"
+          }, 
+          {
+            "name": "Óli Tran"
+          }, 
+          {
+            "name": "Stefán Örn Stefánsson"
+          }, 
+          {
+            "name": "Emil Austmann Kristinsson"
+          }, 
+          {
+            "name": "Edda Sif Bergman Þorvaldsdóttir"
+          }, 
+          {
+            "name": "Hákon sverrisson"
+          }, 
+          {
+            "name": "Guðjón Snæfeld Magnússon"
+          }, 
+          {
+            "name": "Alexander Arnarsson"
+          }, 
+          {
+            "name": "Þorsteinn Ólafur Þorsteinsson"
+          }, 
+          {
+            "name": "Bjarney Grendal Jóhannesdóttir"
+          }, 
+          {
+            "name": "Sigríður Jónasdóttir"
+          }, 
+          {
+            "name": "Níels Unnar Hauksson"
+          }, 
+          {
+            "name": "Siv Friðleifsdóttir"
+          }
+        ], 
+        "name": "Suðvesturkjördæmi",
+        "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Sudvestur"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Frosti Sigurjónsson"
+          }, 
+          {
+            "name": "Sigrún Magnúsdóttir"
+          }, 
+          {
+            "name": "Þorsteinn Magnússon"
+          }, 
+          {
+            "name": "Fanný Gunnarsdóttir"
+          }, 
+          {
+            "name": "Snædís Karlsdóttir"
+          }, 
+          {
+            "name": "Einar Jónsson"
+          }, 
+          {
+            "name": "Snorri Þorvaldsson"
+          }, 
+          {
+            "name": "Jón Árni Bragason"
+          }, 
+          {
+            "name": "Birna Svavarsdóttir"
+          }, 
+          {
+            "name": "Ólafur Hjálmarsson"
+          }, 
+          {
+            "name": "Ása María H. Guðmundsdóttir"
+          }, 
+          {
+            "name": "Ómar Olgeirsson"
+          }, 
+          {
+            "name": "Þuríður Bernódusdóttir"
+          }, 
+          {
+            "name": "Eiríkur Hans Sigurðsson"
+          }, 
+          {
+            "name": "Gerður Hauksdóttir"
+          }, 
+          {
+            "name": "Hlín Sigurðardóttir"
+          }, 
+          {
+            "name": "Björgvin Víglundsson"
+          }, 
+          {
+            "name": "Elín Helga Magnúsdóttir"
+          }, 
+          {
+            "name": "Guðrún St. Briem"
+          }, 
+          {
+            "name": "Þorsteinn Ólafsson"
+          }, 
+          {
+            "name": "Sigrún Sturludóttir"
+          }, 
+          {
+            "name": "Valdimar Kr. Jónsson"
+          }
+        ], 
+        "name": "Reykjavíkurkjördæmi norður",
+        "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Reykjavik_nordur"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Gunnar Bragi Sveinsson"
+          }, 
+          {
+            "name": "Ásmundur Einar Daðason"
+          }, 
+          {
+            "name": "Elsa Lára Arnardóttir"
+          }, 
+          {
+            "name": "Jóhanna M. Sigmundsdóttir"
+          }, 
+          {
+            "name": "Sigurður Páll Jónsson"
+          }, 
+          {
+            "name": "Anna María Elíasdóttir"
+          }, 
+          {
+            "name": "Jón Árnason"
+          }, 
+          {
+            "name": "Halldór Logi Friðgeirsson"
+          }, 
+          {
+            "name": "Jenný Lind Egilsdóttir"
+          }, 
+          {
+            "name": "Stefán Vagn Stefánsson"
+          }, 
+          {
+            "name": "Anna Lísa Hilmarsdóttir"
+          }, 
+          {
+            "name": "Svanlaug Guðnadóttir"
+          }, 
+          {
+            "name": "Klara Sveinbjörnsdóttir"
+          }, 
+          {
+            "name": "Magnús Pétursson"
+          }, 
+          {
+            "name": "Gauti Geirsson"
+          }, 
+          {
+            "name": "Magdalena Sigurðardóttir"
+          }
+        ], 
+        "name": "Norðvesturkjördæmi",
+        "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Nordvestur"
+      }
+    ]
+  }, 
+  "name": "Framsóknarflokkur", 
+  "letter": "B"
 }
