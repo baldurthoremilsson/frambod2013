@@ -1,0 +1,418 @@
+{
+  "url": "http://www.bjortframtid.is", 
+  "candidates": {
+    "url": "http://www.bjortframtid.is/folkid/", 
+    "constituencies": [
+      {
+        "list": [
+          {
+            "name": "Róbert Marshall"
+          }, 
+          {
+            "name": "Óttarr Proppé"
+          }, 
+          {
+            "name": "Brynhildur S. Björnsdóttir"
+          }, 
+          {
+            "name": "Sigrún Gunnarsdóttir"
+          }, 
+          {
+            "name": "Tryggvi Haraldsson"
+          }, 
+          {
+            "name": "Auður Hermannsdóttir"
+          }, 
+          {
+            "name": "Hrefna Guðmundsdóttir"
+          }, 
+          {
+            "name": "Reynir Þór Eggertsson"
+          }, 
+          {
+            "name": "Óðinn Svansson"
+          }, 
+          {
+            "name": "Ágústa Kristín Andersen"
+          }, 
+          {
+            "name": "Sandra Ólafsdóttir"
+          }, 
+          {
+            "name": "Elvar Örn Arason"
+          }, 
+          {
+            "name": "Ýr Þrastardóttir"
+          }, 
+          {
+            "name": "Harpa Rut Hilmarsdóttir"
+          }, 
+          {
+            "name": "Bjarni Benediktsson"
+          }, 
+          {
+            "name": "Einar Guðnason"
+          }, 
+          {
+            "name": "Helga Kristjánsdóttir"
+          }, 
+          {
+            "name": "Íris Davíðsdóttir"
+          }, 
+          {
+            "name": "Gunnar Hólmsteinn"
+          }, 
+          {
+            "name": "Arnar Ómarsson"
+          }, 
+          {
+            "name": "Ólafur Egilsson"
+          }, 
+          {
+            "name": "Elsa Yeoman"
+          }
+        ], 
+        "name": "Reykjavíkurkjördæmi suður"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Páll Valur Björnsson"
+          }, 
+          {
+            "name": "Guðlaug Elísabet Finnsdóttir"
+          }, 
+          {
+            "name": "Heimir Eyvindarson"
+          }, 
+          {
+            "name": "Guðfinna Gunnarsdóttir"
+          }, 
+          {
+            "name": "Jóhanna Ýr Jónsdóttir"
+          }, 
+          {
+            "name": "Lovísa Hafsteinsdóttir"
+          }, 
+          {
+            "name": "Sigurbjörg Tracey"
+          }, 
+          {
+            "name": "Halldór Zoega"
+          }, 
+          {
+            "name": "Sunna Stefánsdóttir"
+          }, 
+          {
+            "name": "Þórunn Einarsdóttir"
+          }, 
+          {
+            "name": "Kristín Sigfúsdóttir"
+          }, 
+          {
+            "name": "Magnús Magnússon"
+          }, 
+          {
+            "name": "Atli Fannar Bjarkason"
+          }, 
+          {
+            "name": "Jóna Júlíusdóttir"
+          }, 
+          {
+            "name": "Jónas Bergmann Magnússon"
+          }, 
+          {
+            "name": "Halldór Hlöðversson"
+          }, 
+          {
+            "name": "Anna Sigríður Jónsdóttir"
+          }, 
+          {
+            "name": "Hera Björk Þórhallsdóttir"
+          }, 
+          {
+            "name": "Lilja Nótt Þórarinsdóttir"
+          }, 
+          {
+            "name": "Pétur Skarphéðinsson"
+          }
+        ], 
+        "name": "Suðurkjördæmi"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Brynhildur Pétursdóttir"
+          }, 
+          {
+            "name": "Preben Jón Pétursson"
+          }, 
+          {
+            "name": "Stefán Már Guðmundsson"
+          }, 
+          {
+            "name": "Hanna Sigrún Helgadóttir"
+          }, 
+          {
+            "name": "Bragi S Björgvinsson"
+          }, 
+          {
+            "name": "Brynja Reynisdóttir"
+          }, 
+          {
+            "name": "Sigurjón Jónasson"
+          }, 
+          {
+            "name": "Anna Hlíf Árnadóttir"
+          }, 
+          {
+            "name": "Kristín Sóley Björnsdóttir"
+          }, 
+          {
+            "name": "Dagur Skírnir Óðinsson"
+          }, 
+          {
+            "name": "Svanfríður Larsen"
+          }, 
+          {
+            "name": "Þorsteinn Hlynur Jónsson"
+          }, 
+          {
+            "name": "Elísabet Karlsdóttir"
+          }, 
+          {
+            "name": "Oddur L. Árnason"
+          }, 
+          {
+            "name": "Flosi Þorgeirsson"
+          }, 
+          {
+            "name": "Viðar Jónsson"
+          }, 
+          {
+            "name": "Erla Björnsdóttir"
+          }, 
+          {
+            "name": "Hörður Ingólfsson"
+          }, 
+          {
+            "name": "Matthildur Jónsdóttir"
+          }, 
+          {
+            "name": "Rögnvaldur gáfaði"
+          }
+        ], 
+        "name": "Norðausturkjördæmi"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Guðmundur Steingrímsson"
+          }, 
+          {
+            "name": "Freyja Haraldsdóttir"
+          }, 
+          {
+            "name": "Guðlaug Kristjánsdóttir"
+          }, 
+          {
+            "name": "Erla Karlsdóttir"
+          }, 
+          {
+            "name": "Pétur Óskarsson"
+          }, 
+          {
+            "name": "Andrés Pétursson"
+          }, 
+          {
+            "name": "Borghildur Sturludóttir"
+          }, 
+          {
+            "name": "Sigurður P. Sigmundsson"
+          }, 
+          {
+            "name": "Ragnheiður Guðmundsdóttir"
+          }, 
+          {
+            "name": "Sigurjón Kjartansson"
+          }, 
+          {
+            "name": "María Pálsdóttir"
+          }, 
+          {
+            "name": "Kjartan Atli Kjartansson"
+          }, 
+          {
+            "name": "Helga Bragadóttir"
+          }, 
+          {
+            "name": "Anna Guðrún Hugadóttir"
+          }, 
+          {
+            "name": "Aldís Sigurðardóttir"
+          }, 
+          {
+            "name": "Hlini Melsted Jóngeirsson"
+          }, 
+          {
+            "name": "Ragnhildur Reynisdóttir"
+          }, 
+          {
+            "name": "Snorri Páll Einarsson"
+          }, 
+          {
+            "name": "Jón Ingvar Valdimarsson"
+          }, 
+          {
+            "name": "Sigrún Sól Ólafsdóttir"
+          }, 
+          {
+            "name": "Agnar H. Johnson"
+          }, 
+          {
+            "name": "Guðrún Sesselja Arnardóttir"
+          }, 
+          {
+            "name": "Auður Jónsdóttir"
+          }, 
+          {
+            "name": "Helgi Pétursson"
+          }, 
+          {
+            "name": "Margrét Örnólfsdóttir"
+          }, 
+          {
+            "name": "Ingvi Þorsteinsson"
+          }
+        ], 
+        "name": "Suðvesturkjördæmi"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Björt Ólafsdóttir"
+          }, 
+          {
+            "name": "Heiða Kristín Helgadóttir"
+          }, 
+          {
+            "name": "Eldar Ástþórsson"
+          }, 
+          {
+            "name": "Friðrik Rafnsson"
+          }, 
+          {
+            "name": "Jón Gnarr"
+          }, 
+          {
+            "name": "Sunna Jóhannsdóttir"
+          }, 
+          {
+            "name": "Sigurður Björn Blöndal"
+          }, 
+          {
+            "name": "Hjalti Vigfússon"
+          }, 
+          {
+            "name": "Brynja Björk Birgisdóttir"
+          }, 
+          {
+            "name": "Gestur Guðjónsson"
+          }, 
+          {
+            "name": "Diljá Ámundadóttir"
+          }, 
+          {
+            "name": "Hörður Ágústsson"
+          }, 
+          {
+            "name": "Guðrún Eiríksdóttir"
+          }, 
+          {
+            "name": "Vigdís Hrefna Pálsdóttir"
+          }, 
+          {
+            "name": "Karl Sigurðsson"
+          }, 
+          {
+            "name": "Valur Freyr Einarsson"
+          }, 
+          {
+            "name": "Harpa Elísa Þórsdóttir"
+          }, 
+          {
+            "name": "Hulda Proppé"
+          }, 
+          {
+            "name": "Hjördís Sjafnar Ingimundardóttir"
+          }, 
+          {
+            "name": "Haraldur Dean Nelson"
+          }, 
+          {
+            "name": "Einar Örn Benediktsson"
+          }, 
+          {
+            "name": "Hlíf Böðvarsdóttir"
+          }
+        ], 
+        "name": "Reykjavíkurkjördæmi norður"
+      }, 
+      {
+        "list": [
+          {
+            "name": "Árni Múli Jónasson"
+          }, 
+          {
+            "name": "G. Valdimar Valdemarsson"
+          }, 
+          {
+            "name": "Solveig Thorlacius"
+          }, 
+          {
+            "name": "Magnús Þór Jónsson"
+          }, 
+          {
+            "name": "Soffía Vagnsdóttir"
+          }, 
+          {
+            "name": "Haukur Logi Jóhannsson"
+          }, 
+          {
+            "name": "Eva Símonardóttir"
+          }, 
+          {
+            "name": "Erna Guðmundsdóttir"
+          }, 
+          {
+            "name": "Arnar Snæberg Jónsson"
+          }, 
+          {
+            "name": "Vilborg Þ. Guðbjartsdóttir"
+          }, 
+          {
+            "name": "Hlöðver Ingi Gunnarsson"
+          }, 
+          {
+            "name": "Svanberg J. Eyþórsson"
+          }, 
+          {
+            "name": "Ágústa Þóra Jónsdóttir"
+          }, 
+          {
+            "name": "Björn Kristjánsson"
+          }, 
+          {
+            "name": "Anna Lára Steindal"
+          }, 
+          {
+            "name": "Örn Elías Guðmundsson (Mugison)"
+          }
+        ], 
+        "name": "Norðvesturkjördæmi"
+      }
+    ]
+  }, 
+  "name": "Björt framtíð", 
+  "letter": "A"
+}
