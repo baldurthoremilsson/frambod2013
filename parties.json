@@ -854,6 +854,425 @@
     }, 
     {
       "url": "http://www.xd.is/", 
+      "candidates": {
+        "constituencies": [
+          {
+            "url": "http://www.xd.is/kosningar-2013/frambjodendur/reykjavikurkjordaemi-sudur/", 
+            "list": [
+              {
+                "name": "Hanna Birna Kristjánsdóttir"
+              }, 
+              {
+                "name": "Pétur H. Blöndal"
+              }, 
+              {
+                "name": "Guðlaugur Þór Þórðarson"
+              }, 
+              {
+                "name": "Sigríður Á. Andersen"
+              }, 
+              {
+                "name": "Áslaug María Friðriksdóttir"
+              }, 
+              {
+                "name": "Teitur Björn Einarsson"
+              }, 
+              {
+                "name": "Þórey Vilhjálmsdóttir"
+              }, 
+              {
+                "name": "Fanney Birna Jónsdóttir"
+              }, 
+              {
+                "name": "Hulda Bjarnadóttir"
+              }, 
+              {
+                "name": "Ingvar Garðarsson"
+              }, 
+              {
+                "name": "Áslaug Arna Sigurbjörnsdóttir"
+              }, 
+              {
+                "name": "Freyr Friðriksson"
+              }, 
+              {
+                "name": "Jóhanna Pálsdóttir"
+              }, 
+              {
+                "name": "Hannes Sigurbjörn Jónsson"
+              }, 
+              {
+                "name": "Jón Ragnar Ríkharðsson"
+              }, 
+              {
+                "name": "Anna Laufey Sigurðardóttir"
+              }, 
+              {
+                "name": "Margeir Vilhjálmsson"
+              }, 
+              {
+                "name": "Hrafnhildur Stefánsdóttir"
+              }, 
+              {
+                "name": "Elísabet Ólöf Helgadóttir"
+              }, 
+              {
+                "name": "Gísli Ragnarsson"
+              }, 
+              {
+                "name": "Alda María Magnúsdóttir"
+              }, 
+              {
+                "name": "Halldór Blöndal"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi suður"
+          }, 
+          {
+            "url": "http://www.xd.is/kosningar-2013/frambjodendur/sudurkjordaemi/", 
+            "list": [
+              {
+                "name": "Ragnheiður Elín Árnadóttir"
+              }, 
+              {
+                "name": "Unnur Brá Konnráðsdóttir"
+              }, 
+              {
+                "name": "Ásmundur Friðriksson"
+              }, 
+              {
+                "name": "Vilhjálmur Árnason"
+              }, 
+              {
+                "name": "Geir Jón Þórisson"
+              }, 
+              {
+                "name": "Oddgeir Ágúst Ottesen"
+              }, 
+              {
+                "name": "Sandra Dís Hafþórsdóttir"
+              }, 
+              {
+                "name": "Trausti Hjaltason. sérfræðingur hjá LV"
+              }, 
+              {
+                "name": "Sigurbjartur Pálsson"
+              }, 
+              {
+                "name": "Þorsteinn M Kristinsson"
+              }, 
+              {
+                "name": "Björg Hafsteinsdóttir"
+              }, 
+              {
+                "name": "Ármann Einarsson"
+              }, 
+              {
+                "name": "Lovísa Rósa Bjarnadóttir"
+              }, 
+              {
+                "name": "Margrét Rúnólfsdóttir"
+              }, 
+              {
+                "name": "Markús Vernharðsson"
+              }, 
+              {
+                "name": "Sigurhanna Friðþórsdóttir"
+              }, 
+              {
+                "name": "Jóna Sigurbjartsdóttir"
+              }, 
+              {
+                "name": "Arnar Ragnarsson"
+              }, 
+              {
+                "name": "Elínborg Ólafsdóttir"
+              }, 
+              {
+                "name": "Árni Johnsen"
+              }
+            ], 
+            "name": "Suðurkjördæmi"
+          }, 
+          {
+            "url": "http://www.xd.is/kosningar-2013/frambjodendur/nordausturkjordaemi/", 
+            "list": [
+              {
+                "name": "Kristján Þór Júlíusson"
+              }, 
+              {
+                "name": "Valgerður Gunnarsdóttir"
+              }, 
+              {
+                "name": "Ásta Kristín Sigurjónsdóttir"
+              }, 
+              {
+                "name": "Jens Garðar Helgason"
+              }, 
+              {
+                "name": "Erla S. Ragnarsdóttir"
+              }, 
+              {
+                "name": "Bergur Þorri Benjamínsson"
+              }, 
+              {
+                "name": "Ásdís Jóna Sigurjónsdóttir"
+              }, 
+              {
+                "name": "Arnbjörg Sveinsdóttir"
+              }, 
+              {
+                "name": "Njáll Trausti Friðbertsson"
+              }, 
+              {
+                "name": "Björgvin Björgvinsson"
+              }, 
+              {
+                "name": "Bergþóra Þórhallsdóttir"
+              }, 
+              {
+                "name": "Soffía Björgvinsdóttir"
+              }, 
+              {
+                "name": "Elín Káradóttir"
+              }, 
+              {
+                "name": "Heimir Örn Árnason"
+              }, 
+              {
+                "name": "Ingvar Leví Gunnarsson"
+              }, 
+              {
+                "name": "María Björk Einarsdóttir"
+              }, 
+              {
+                "name": "Páll Baldursson"
+              }, 
+              {
+                "name": "Emma Tryggvadóttir"
+              }, 
+              {
+                "name": "Katrín Eymundsdóttir"
+              }, 
+              {
+                "name": "Tómas Ingi Olrich"
+              }
+            ], 
+            "name": "Norðausturkjördæmi"
+          }, 
+          {
+            "url": "http://www.xd.is/kosningar-2013/frambjodendur/sudvesturkjordaemi/", 
+            "list": [
+              {
+                "name": "Bjarni Benediktsson"
+              }, 
+              {
+                "name": "Ragnheiður Ríkharðsdóttir"
+              }, 
+              {
+                "name": "Jón Gunnarsson"
+              }, 
+              {
+                "name": "Vilhjálmur Bjarnason"
+              }, 
+              {
+                "name": "Elín Hirst"
+              }, 
+              {
+                "name": "Óli Björn Kárason"
+              }, 
+              {
+                "name": "Karen Elísabet Halldórsdóttir"
+              }, 
+              {
+                "name": "Bryndís Loftsdóttir"
+              }, 
+              {
+                "name": "Friðjón R. Friðjónsson"
+              }, 
+              {
+                "name": "Unnur Lára Bryde"
+              }, 
+              {
+                "name": "Árni Grétar Finnsson"
+              }, 
+              {
+                "name": "Gróa Ásgeirsdóttir"
+              }, 
+              {
+                "name": "Hjördís Jóna Gísladóttir"
+              }, 
+              {
+                "name": "Theodór Kristjánsson"
+              }, 
+              {
+                "name": "Elísabet Valgeirsdóttir"
+              }, 
+              {
+                "name": "Guðmundur Geirdal"
+              }, 
+              {
+                "name": "Gunnhildur Yrsa Jónsdóttir"
+              }, 
+              {
+                "name": "Sigurbergur Sveinsson"
+              }, 
+              {
+                "name": "Ingimar Sigurðsson"
+              }, 
+              {
+                "name": "Ingibjörg Hauksdóttir"
+              }, 
+              {
+                "name": "Sveinn Guðbjartsson"
+              }, 
+              {
+                "name": "Jónas Þórir Þórisson"
+              }, 
+              {
+                "name": "Halla Halldórsdóttir"
+              }, 
+              {
+                "name": "Gullveig Sæmundsdóttir"
+              }, 
+              {
+                "name": "Gunnar Sigurjónsson"
+              }, 
+              {
+                "name": "Þorgerður Katrín Gunnarsdóttir"
+              }
+            ], 
+            "name": "Suðvesturkjördæmi"
+          }, 
+          {
+            "url": "http://www.xd.is/kosningar-2013/frambjodendur/reykjavikurkjordaemi-nordur/", 
+            "list": [
+              {
+                "name": "Illugi Gunnarsson"
+              }, 
+              {
+                "name": "Brynjar Níelsson"
+              }, 
+              {
+                "name": "Birgir Ármannsson"
+              }, 
+              {
+                "name": "Ingibjörg Óðinsdóttir"
+              }, 
+              {
+                "name": "Elínbjörg Magnúsdóttir"
+              }, 
+              {
+                "name": "Arnar Þórisson"
+              }, 
+              {
+                "name": "Erla Ósk Ásgeirsdóttir"
+              }, 
+              {
+                "name": "Borgar Þór Einarsson"
+              }, 
+              {
+                "name": "Kristín Heimisdóttir"
+              }, 
+              {
+                "name": "Erla María Tölgyes"
+              }, 
+              {
+                "name": "Hjálmar Jónsson"
+              }, 
+              {
+                "name": "Sandra María St. Polanska"
+              }, 
+              {
+                "name": "Auðunn Kjartansson"
+              }, 
+              {
+                "name": "Jóhann Heiðar Jóhannsson"
+              }, 
+              {
+                "name": "Heiðrún Lind Marteinsdóttir"
+              }, 
+              {
+                "name": "Þröstur Bragason"
+              }, 
+              {
+                "name": "Hrafnhildur Björk Baldursdóttir"
+              }, 
+              {
+                "name": "Jóhann G. Ólafsson"
+              }, 
+              {
+                "name": "Þóra Berg Jónsdóttir"
+              }, 
+              {
+                "name": "Sigríður Hannesdóttir"
+              }, 
+              {
+                "name": "Leifur Magnússon"
+              }, 
+              {
+                "name": "Ólöf Nordal"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi norður"
+          }, 
+          {
+            "url": "http://www.xd.is/kosningar-2013/frambjodendur/nordvesturkjordaemi/", 
+            "list": [
+              {
+                "name": "Einar Kristinn Guðfinnsson"
+              }, 
+              {
+                "name": "Haraldur Benediktsson"
+              }, 
+              {
+                "name": "Eyrún Ingibjörg Sigþórsdóttir"
+              }, 
+              {
+                "name": "Sigurður Örn Ágústsson"
+              }, 
+              {
+                "name": "Sara Katrín Stefánsdóttir"
+              }, 
+              {
+                "name": "Þórdís Kolbrún Reykfjörð Gylfadóttir"
+              }, 
+              {
+                "name": "Rósa Guðmundsdóttir"
+              }, 
+              {
+                "name": "Heiða Dís Fjeldsted"
+              }, 
+              {
+                "name": "Berglind Guðmundsdóttir"
+              }, 
+              {
+                "name": "Díana Ósk Heiðarsdóttir"
+              }, 
+              {
+                "name": "Gunnar Atli Gunnarsson"
+              }, 
+              {
+                "name": "Guðmundur Kjartansson"
+              }, 
+              {
+                "name": "Einar Brandsson"
+              }, 
+              {
+                "name": "Jens Kristmannsson"
+              }, 
+              {
+                "name": "Sigríður G. Jónsdóttir"
+              }, 
+              {
+                "name": "Ásbjörn Óttarsson"
+              }
+            ], 
+            "name": "Norðvesturkjördæmi"
+          }
+        ], 
+        "url": "http://www.xd.is/kosningar-2013/frambjodendur/"
+      }, 
       "name": "Sjálfstæðisflokkurinn", 
       "letter": "D"
     }, 
