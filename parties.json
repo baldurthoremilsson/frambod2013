@@ -8,69 +8,91 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Róbert Marshall"
               }, 
               {
+                "gender": "m", 
                 "name": "Óttarr Proppé"
               }, 
               {
+                "gender": "f", 
                 "name": "Brynhildur S. Björnsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigrún Gunnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Tryggvi Haraldsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Auður Hermannsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Hrefna Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Reynir Þór Eggertsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Óðinn Svansson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ágústa Kristín Andersen"
               }, 
               {
+                "gender": "f", 
                 "name": "Sandra Ólafsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Elvar Örn Arason"
               }, 
               {
+                "gender": "f", 
                 "name": "Ýr Þrastardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Harpa Rut Hilmarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarni Benediktsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Guðnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Helga Kristjánsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Íris Davíðsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Hólmsteinn"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnar Ómarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ólafur Egilsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elsa Yeoman"
               }
             ], 
@@ -79,63 +101,83 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Páll Valur Björnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðlaug Elísabet Finnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Heimir Eyvindarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðfinna Gunnarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna Ýr Jónsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Lovísa Hafsteinsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigurbjörg Tracey"
               }, 
               {
+                "gender": "m", 
                 "name": "Halldór Zoega"
               }, 
               {
+                "gender": "f", 
                 "name": "Sunna Stefánsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórunn Einarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristín Sigfúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Magnús Magnússon"
               }, 
               {
+                "gender": "m", 
                 "name": "Atli Fannar Bjarkason"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóna Júlíusdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jónas Bergmann Magnússon"
               }, 
               {
+                "gender": "m", 
                 "name": "Halldór Hlöðversson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Sigríður Jónsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Hera Björk Þórhallsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Lilja Nótt Þórarinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Pétur Skarphéðinsson"
               }
             ], 
@@ -144,63 +186,83 @@
           {
             "list": [
               {
+                "gender": "f", 
                 "name": "Brynhildur Pétursdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Preben Jón Pétursson"
               }, 
               {
+                "gender": "m", 
                 "name": "Stefán Már Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hanna Sigrún Helgadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bragi S Björgvinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Brynja Reynisdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurjón Jónasson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Hlíf Árnadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Sóley Björnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Dagur Skírnir Óðinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Svanfríður Larsen"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorsteinn Hlynur Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elísabet Karlsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Oddur L. Árnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Flosi Þorgeirsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Viðar Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Erla Björnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hörður Ingólfsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Matthildur Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Rögnvaldur gáfaði"
               }
             ], 
@@ -209,81 +271,107 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Guðmundur Steingrímsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Freyja Haraldsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðlaug Kristjánsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Erla Karlsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Pétur Óskarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Andrés Pétursson"
               }, 
               {
+                "gender": "f", 
                 "name": "Borghildur Sturludóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður P. Sigmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ragnheiður Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurjón Kjartansson"
               }, 
               {
+                "gender": "f", 
                 "name": "María Pálsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kjartan Atli Kjartansson"
               }, 
               {
+                "gender": "f", 
                 "name": "Helga Bragadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Guðrún Hugadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Aldís Sigurðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hlini Melsted Jóngeirsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ragnhildur Reynisdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Snorri Páll Einarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Ingvar Valdimarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigrún Sól Ólafsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Agnar H. Johnson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Sesselja Arnardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Auður Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Pétursson"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Örnólfsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingvi Þorsteinsson"
               }
             ], 
@@ -292,69 +380,91 @@
           {
             "list": [
               {
+                "gender": "f", 
                 "name": "Björt Ólafsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Heiða Kristín Helgadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Eldar Ástþórsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðrik Rafnsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Gnarr"
               }, 
               {
+                "gender": "f", 
                 "name": "Sunna Jóhannsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Björn Blöndal"
               }, 
               {
+                "gender": "m", 
                 "name": "Hjalti Vigfússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Brynja Björk Birgisdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gestur Guðjónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Diljá Ámundadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hörður Ágústsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Eiríksdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Vigdís Hrefna Pálsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Karl Sigurðsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Valur Freyr Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Harpa Elísa Þórsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Hulda Proppé"
               }, 
               {
+                "gender": "f", 
                 "name": "Hjördís Sjafnar Ingimundardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Dean Nelson"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Örn Benediktsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hlíf Böðvarsdóttir"
               }
             ], 
@@ -363,51 +473,67 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Árni Múli Jónasson"
               }, 
               {
+                "gender": "m", 
                 "name": "G. Valdimar Valdemarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Solveig Thorlacius"
               }, 
               {
+                "gender": "m", 
                 "name": "Magnús Þór Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Soffía Vagnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Haukur Logi Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Eva Símonardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Erna Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnar Snæberg Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Vilborg Þ. Guðbjartsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hlöðver Ingi Gunnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Svanberg J. Eyþórsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ágústa Þóra Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Björn Kristjánsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Lára Steindal"
               }, 
               {
+                "gender": "m", 
                 "name": "Örn Elías Guðmundsson (Mugison)"
               }
             ], 
@@ -432,69 +558,91 @@
             "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Reykjavik_sudur", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Vigdís Hauksdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Karl Garðarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sveinbjörg Birna Sveinbjörnsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna Kristín Björnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hafsteinn Ágústsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sunna Gunnars Marteinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ragnar Rögnvaldsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Kjartan Þór Ingason"
               }, 
               {
+                "gender": "f", 
                 "name": "Steinunn Anna Baldvinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Eyjólfur Scheving Magnússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Valgerður Sveinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Björn Bjarnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Rakel Dögg Óskarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristján Hall"
               }, 
               {
+                "gender": "m", 
                 "name": "Brandur Gíslason"
               }, 
               {
+                "gender": "f", 
                 "name": "Agnes Guðnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hörður Gunnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Brynjar Fransson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ragnhildur Jónasdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Alfreð Þorsteinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Áslaug Brynjólfsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Tómas Árnason"
               }
             ], 
@@ -504,63 +652,83 @@
             "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Sudur", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Sigurður Ingi Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Silja Dögg Gunnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Páll Jóhann Pálsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Fjóla Hrund Björnsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sandra Rán Ásgrímsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigrún Gísladóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jónatan Guðni Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ingveldur Guðjónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurjón Fannar Ragnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Björg Níelsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Lúðvík Bergmann"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórhildur Inga Ólafsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sæbjörg Erlingsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Ómar Helgason"
               }, 
               {
+                "gender": "m", 
                 "name": "Ragnar Magnússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásthildur Ýr Gísladóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Reynir Arnarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorvaldur Guðmundsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Elíasson"
               }
             ], 
@@ -570,63 +738,83 @@
             "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Nordaustur", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Sigmundur Davíð Gunnlaugsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Höskuldur  Þórhallsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Líneik Anna Sævarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórunn Egilsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hjálmar Bogi Hafliðason"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Gíslason"
               }, 
               {
+                "gender": "f", 
                 "name": "Katrín Freysdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Bjarnveig Ingvadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Aðalsteinn Júlíusson"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Haukur Hauksson"
               }, 
               {
+                "gender": "m", 
                 "name": "Birkir Jón Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jósef Auðunn Friðriksson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Bergvinsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Eydís Bára Jóhannsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún María Valgeirsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sveinbjörn Árni Lund"
               }, 
               {
+                "gender": "f", 
                 "name": "Sólrún Hauksdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Vilhjálmur Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ari Teitsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Valgerður Sverrisdóttir"
               }
             ], 
@@ -636,81 +824,107 @@
             "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Sudvestur", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Eygló Harðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Willum Þór Þórsson "
               }, 
               {
+                "gender": "m", 
                 "name": "Þorsteinn Sæmundsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurjón Norberg Kjærnested"
               }, 
               {
+                "gender": "f", 
                 "name": "Ólöf Pálína Úlfarsdóttir "
               }, 
               {
+                "gender": "f", 
                 "name": "Elín jóhannsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Óðinn Pétur Vigfússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Njóla Elísdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurjón Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Karl Birgisson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Lisbeth Níelsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórunn Kolbeins Matthíasdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Garðar Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Katrín Guðjónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Óli Tran"
               }, 
               {
+                "gender": "m", 
                 "name": "Stefán Örn Stefánsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Emil Austmann Kristinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Edda Sif Bergman Þorvaldsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hákon sverrisson"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðjón Snæfeld Magnússon"
               }, 
               {
+                "gender": "m", 
                 "name": "Alexander Arnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorsteinn Ólafur Þorsteinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Bjarney Grendal Jóhannesdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Jónasdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Níels Unnar Hauksson"
               }, 
               {
+                "gender": "f", 
                 "name": "Siv Friðleifsdóttir"
               }
             ], 
@@ -720,69 +934,91 @@
             "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Reykjavik_nordur", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Frosti Sigurjónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigrún Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorsteinn Magnússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Fanný Gunnarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Snædís Karlsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Snorri Þorvaldsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Árni Bragason"
               }, 
               {
+                "gender": "f", 
                 "name": "Birna Svavarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ólafur Hjálmarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ása María H. Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ómar Olgeirsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þuríður Bernódusdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Eiríkur Hans Sigurðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Gerður Hauksdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Hlín Sigurðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Björgvin Víglundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elín Helga Magnúsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún St. Briem"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorsteinn Ólafsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigrún Sturludóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Valdimar Kr. Jónsson"
               }
             ], 
@@ -792,51 +1028,67 @@
             "url": "http://www.framsokn.is/KOSNINGAR_2013/Frambodslisti_i_Nordvestur", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Gunnar Bragi Sveinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ásmundur Einar Daðason"
               }, 
               {
+                "gender": "f", 
                 "name": "Elsa Lára Arnardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna M. Sigmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Páll Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna María Elíasdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Árnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Halldór Logi Friðgeirsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jenný Lind Egilsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Stefán Vagn Stefánsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Lísa Hilmarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Svanlaug Guðnadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Klara Sveinbjörnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Magnús Pétursson"
               }, 
               {
+                "gender": "m", 
                 "name": "Gauti Geirsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Magdalena Sigurðardóttir"
               }
             ], 
@@ -860,69 +1112,91 @@
             "url": "http://www.xd.is/kosningar-2013/frambjodendur/reykjavikurkjordaemi-sudur/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Hanna Birna Kristjánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Pétur H. Blöndal"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðlaugur Þór Þórðarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Á. Andersen"
               }, 
               {
+                "gender": "f", 
                 "name": "Áslaug María Friðriksdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Teitur Björn Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórey Vilhjálmsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Fanney Birna Jónsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Hulda Bjarnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingvar Garðarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Áslaug Arna Sigurbjörnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Freyr Friðriksson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna Pálsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hannes Sigurbjörn Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Ragnar Ríkharðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Laufey Sigurðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Margeir Vilhjálmsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hrafnhildur Stefánsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Elísabet Ólöf Helgadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gísli Ragnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Alda María Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Halldór Blöndal"
               }
             ], 
@@ -932,63 +1206,83 @@
             "url": "http://www.xd.is/kosningar-2013/frambjodendur/sudurkjordaemi/", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Ragnheiður Elín Árnadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Unnur Brá Konnráðsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ásmundur Friðriksson"
               }, 
               {
+                "gender": "m", 
                 "name": "Vilhjálmur Árnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Geir Jón Þórisson"
               }, 
               {
+                "gender": "m", 
                 "name": "Oddgeir Ágúst Ottesen"
               }, 
               {
+                "gender": "f", 
                 "name": "Sandra Dís Hafþórsdóttir"
               }, 
               {
-                "name": "Trausti Hjaltason. sérfræðingur hjá LV"
+                "gender": "m", 
+                "name": "Trausti Hjaltason"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurbjartur Pálsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorsteinn M Kristinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Björg Hafsteinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ármann Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Lovísa Rósa Bjarnadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Rúnólfsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Markús Vernharðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigurhanna Friðþórsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóna Sigurbjartsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnar Ragnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elínborg Ólafsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Johnsen"
               }
             ], 
@@ -998,63 +1292,83 @@
             "url": "http://www.xd.is/kosningar-2013/frambjodendur/nordausturkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Kristján Þór Júlíusson"
               }, 
               {
+                "gender": "f", 
                 "name": "Valgerður Gunnarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásta Kristín Sigurjónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jens Garðar Helgason"
               }, 
               {
+                "gender": "f", 
                 "name": "Erla S. Ragnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bergur Þorri Benjamínsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásdís Jóna Sigurjónsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Arnbjörg Sveinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Njáll Trausti Friðbertsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Björgvin Björgvinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Bergþóra Þórhallsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Soffía Björgvinsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Elín Káradóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Heimir Örn Árnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingvar Leví Gunnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "María Björk Einarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Páll Baldursson"
               }, 
               {
+                "gender": "f", 
                 "name": "Emma Tryggvadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Katrín Eymundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Tómas Ingi Olrich"
               }
             ], 
@@ -1064,81 +1378,107 @@
             "url": "http://www.xd.is/kosningar-2013/frambjodendur/sudvesturkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Bjarni Benediktsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ragnheiður Ríkharðsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Gunnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Vilhjálmur Bjarnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Elín Hirst"
               }, 
               {
+                "gender": "m", 
                 "name": "Óli Björn Kárason"
               }, 
               {
+                "gender": "f", 
                 "name": "Karen Elísabet Halldórsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Bryndís Loftsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðjón R. Friðjónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Unnur Lára Bryde"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Grétar Finnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Gróa Ásgeirsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Hjördís Jóna Gísladóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Theodór Kristjánsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elísabet Valgeirsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Geirdal"
               }, 
               {
+                "gender": "f", 
                 "name": "Gunnhildur Yrsa Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurbergur Sveinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingimar Sigurðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ingibjörg Hauksdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sveinn Guðbjartsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jónas Þórir Þórisson"
               }, 
               {
+                "gender": "f", 
                 "name": "Halla Halldórsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Gullveig Sæmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Sigurjónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þorgerður Katrín Gunnarsdóttir"
               }
             ], 
@@ -1148,69 +1488,91 @@
             "url": "http://www.xd.is/kosningar-2013/frambjodendur/reykjavikurkjordaemi-nordur/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Illugi Gunnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Brynjar Níelsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Birgir Ármannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ingibjörg Óðinsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Elínbjörg Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnar Þórisson"
               }, 
               {
+                "gender": "f", 
                 "name": "Erla Ósk Ásgeirsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Borgar Þór Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Heimisdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Erla María Tölgyes"
               }, 
               {
+                "gender": "m", 
                 "name": "Hjálmar Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sandra María St. Polanska"
               }, 
               {
+                "gender": "m", 
                 "name": "Auðunn Kjartansson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jóhann Heiðar Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Heiðrún Lind Marteinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þröstur Bragason"
               }, 
               {
+                "gender": "f", 
                 "name": "Hrafnhildur Björk Baldursdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jóhann G. Ólafsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þóra Berg Jónsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Hannesdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Leifur Magnússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Ólöf Nordal"
               }
             ], 
@@ -1220,51 +1582,67 @@
             "url": "http://www.xd.is/kosningar-2013/frambjodendur/nordvesturkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Einar Kristinn Guðfinnsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Benediktsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Eyrún Ingibjörg Sigþórsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Örn Ágústsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sara Katrín Stefánsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórdís Kolbrún Reykfjörð Gylfadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Rósa Guðmundsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Heiða Dís Fjeldsted"
               }, 
               {
+                "gender": "f", 
                 "name": "Berglind Guðmundsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Díana Ósk Heiðarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Atli Gunnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Kjartansson"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Brandsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jens Kristmannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður G. Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ásbjörn Óttarsson"
               }
             ], 
@@ -1284,18 +1662,23 @@
             "url": "http://www.afram-island.is/frambjodendur/reykjavik-sudur/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Jón E Árnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Pétur Fjeldsted Einarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Ingólfsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Katrín Guðjónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristján Árni Kristjánsson"
               }
             ], 
@@ -1305,18 +1688,23 @@
             "url": "http://www.afram-island.is/frambjodendur/reykjavik-nordur/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Kjartan Örn Kjartansson"
               }, 
               {
+                "gender": "m", 
                 "name": "Björn Torfi Hauksson"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristján Orri Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðríður Eiríksdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Grétar Ómarsson"
               }
             ], 
@@ -1326,18 +1714,23 @@
             "url": "http://www.afram-island.is/frambjodendur/sudurkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Sigursveinn Þórðarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Agla Þýrí Kristjánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Axel Óli Ægisson"
               }, 
               {
+                "gender": "m", 
                 "name": "Þórarinn Björn Steinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Birgir Indriðason"
               }
             ], 
@@ -1347,18 +1740,23 @@
             "url": "http://www.afram-island.is/frambjodendur/nordvesturkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Sigurjón Haraldsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Íris Dröfn Kristjánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Ingi Magnússon"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðbrandur Jónatansson"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Kristján Ólason"
               }
             ], 
@@ -1368,18 +1766,23 @@
             "url": "http://www.afram-island.is/frambjodendur/sudvesturkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Guðmundur Franklín Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Týr Þórarinsson "
               }, 
               {
+                "gender": "m", 
                 "name": "Magnús Þórarinn Thorlacius"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Helgason"
               }, 
               {
+                "gender": "m", 
                 "name": "Böðvar Guðmundsson"
               }
             ], 
@@ -1417,21 +1820,27 @@
           {
             "list": [
               {
+                "gender": "f", 
                 "name": "Þórhildur Þorleifsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Örn Bárður Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Íris Erlingsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðbjörn Guðbjörnsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jónas Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sólveig Guðmundsdóttir"
               }
             ], 
@@ -1440,21 +1849,27 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Þorvaldur Gylfason"
               }, 
               {
+                "gender": "m", 
                 "name": "Egill Ólafsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Ólafsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Viktor Orri Valgarðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jenný Stefanía Jensdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Arnfríður Guðmundsdóttir"
               }
             ], 
@@ -1463,21 +1878,27 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Lýður Árnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Ástrós Signýjardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðrik Hansen Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Guðlaugsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Stefán Árnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórdís Björk Sigurþórsdóttir"
               }
             ], 
@@ -1502,69 +1923,91 @@
             "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Reykjavik/tabid/150/ID/3826/Reykjavikurlistar_samykktir_i_fulltruarainu.aspx", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Sigríður Ingibjörg Ingadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Hjörvar"
               }, 
               {
+                "gender": "f", 
                 "name": "Björk Vilhelmsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Mörður Árnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Ósk Vilhjálmsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnar Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Freyja Steingrímsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Höskuldur Sæmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Eydís Sveinbjarnardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður R. Beck"
               }, 
               {
+                "gender": "f", 
                 "name": "Þorgerður L. Diðriksdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Reynir Sigurbjörnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna María Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorbjörn Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Inga Auðbjörg Kristjánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hilmar Sigurðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Valgerður Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Natan Kolbeinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Falasteen Abu Libdeh"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Þórðarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hrannar B. Arnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásta R. Jóhannesdóttir"
               }
             ], 
@@ -1574,63 +2017,83 @@
             "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Sudur/tabid/149/ID/3841/Framboslisti_samykktur.aspx", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Oddný G. Harðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Björgvin G. Sigurðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Arna Ír Gunnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Rúnar Þorvaldsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ólafur Þór Ólafsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Bryndís Sigurðarsóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bergvin Oddsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Borghildur Kristinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Vilhjálmur Vilhjálmsson "
               }, 
               {
+                "gender": "m", 
                 "name": "Hannes Friðriksson"
               }, 
               {
+                "gender": "f", 
                 "name": "Marta Sigurðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hróðmar Bjarnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Dagmar Lóa Hilmarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Muhammad Azfar Karim"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Ingimundardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingimundur B. Garðarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Soffía Sigurðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gísli Hermannsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Eyjólfur Eysteinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Frímannsdóttir"
               }
             ], 
@@ -1640,63 +2103,83 @@
             "url": "http://www.samfylkingin.is/Frettir/tabid/60/ID/3873/Framboslisti_i_Norausturkjordmi_samykktur.aspx", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Kristján L. Möller"
               }, 
               {
+                "gender": "f", 
                 "name": "Erna Indriðadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Jónína Rós Guðmundsdóttir "
               }, 
               {
+                "gender": "m", 
                 "name": "Sigmundur Ernir Rúnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Helena Þ. Karlsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Örlygur Hnefill Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Friðbjörg J.Sigurjónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingólfur Freysson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Elva Konráðsdóttir "
               }, 
               {
+                "gender": "f", 
                 "name": "Hildur Þórisdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarki Ármann Oddsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Herdís Björk Brynjarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Elvar Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Erna Valborg Björgvinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Skúli Björnsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ásbjörn Þorsteinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Valdís Anna Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Rögnvaldur Ingólfsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Dagbjört Elín Pálsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Stefán Þorleifsson"
               }
             ], 
@@ -1706,81 +2189,107 @@
             "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Sudvestur/tabid/148/ID/3834/Framboslisti_samykktur.aspx", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Árni Páll Árnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Katrín Júlíusdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Magnús Orri Schram"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Gauja Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Lúðvík Geirsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Júlía Rafnsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Amal Tamimi"
               }, 
               {
+                "gender": "m", 
                 "name": "Stefán Rafn Sigurbjörnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Kristmannsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hjalti Már Þórisson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Sigríður Guðnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðþjófur Helgi Karlsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Á. Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Pálsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigurjóna Sverrisdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ragnar Gunnar Þórhallsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Lind Ólafsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Flosason"
               }, 
               {
+                "gender": "m", 
                 "name": "Geir Guðbrandsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Dagbjört Guðmundsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Karolína Stefánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Helgason"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðbjörn Sigvaldason"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Helga Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Reynir Ingibjartsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna Axelsdóttir"
               }
             ], 
@@ -1790,69 +2299,91 @@
             "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Reykjavik/tabid/150/ID/3826/Reykjavikurlistar_samykktir_i_fulltruarainu.aspx", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Össur Skarphéðinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Valgerður Bjarnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Skúli Helgason"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Margrét Guðjónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Teitur Atlason"
               }, 
               {
+                "gender": "f", 
                 "name": "Hrafnhildur Ragnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sindri Snær Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Dagbjört Hákonardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Gunnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hanna Björg Vilhjálmsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Vilhjálmur Þorsteinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ingibjörg Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðni Rúnar Jónasson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sema Erla Serdar"
               }, 
               {
+                "gender": "m", 
                 "name": "Torfi H. Tulinius"
               }, 
               {
+                "gender": "f", 
                 "name": "Arna Hrönn Aradóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kjartan Valgarðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna E. Vilhelmsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ahmed Awad"
               }, 
               {
+                "gender": "f", 
                 "name": "Eva Indriðadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Dagur B. Eggertsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna Sigurðardóttir"
               }
             ], 
@@ -1862,51 +2393,67 @@
             "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Nordvestur/tabid/136/articleType/ArticleView/articleId/3825/Framboslisti-i-Norvesturkjordmi-samykktur.aspx", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Guðbjartur Hannesson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ólína Þorvarðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hörður Ríkharðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hlédís Sveinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Garðar Svansson"
               }, 
               {
+                "gender": "f", 
                 "name": "Inga Björk Bjarnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Benedikt Bjarnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Svanhildur Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ólafur Þór Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Sigurrós Einarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Þór Ágústsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Eggertsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Magnús Smári Snorrason"
               }, 
               {
+                "gender": "f", 
                 "name": "Arna Lára Jónsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Gréta Sjöfn Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jóhann Ársælsson"
               }
             ], 
@@ -1930,69 +2477,91 @@
             "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Þórður Björn Sigurðsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jóhannes Björn Lúðvíksson"
               }, 
               {
+                "gender": "f", 
                 "name": "Helga Þórðardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Rannveig Óskarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Jónas Eggertsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hugrún Steinunn Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Birgir Skúlason"
               }, 
               {
+                "gender": "f", 
                 "name": "Eva Guðrún Gunnbjörnsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hannes Ingi Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Lena Mist Skaptadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Milen Nikolaev Nikolov"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigrún Viðarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Tyrfingur Tyrfingsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Longina Losiniecka"
               }, 
               {
+                "gender": "m", 
                 "name": "Þórður Magnússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Irena Damrath"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnar Bergur Guðjónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Friðrikka Edda Þórarinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Páll Heiðar M. Aadnegard"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigurbjörg Guttormsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Magnús Bjarnarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Herdís Dröfn Baldvinsdóttir"
               }
             ], 
@@ -2002,69 +2571,91 @@
             "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Ólöf Guðný Valdimarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hólmsteinn Brekkan"
               }, 
               {
+                "gender": "f", 
                 "name": "Ása Lind Finnbogadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðrik Þór Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hólmfríður Berentsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Vilhjálmur Árnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Sveinlaug Sigurðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Daði Guðbjörnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristbjörg María Gunnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bárður Ragnar Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Lena Guðrún Hákonardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þórður Grétarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Gunnhildur Valdimarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hermann Arnar Austmar"
               }, 
               {
+                "gender": "f", 
                 "name": "Valgerður Árnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Þengill Þórðarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Auður Halldórsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ívar Rafn Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigurlaug Sigurðardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Erla Bolladóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Vera Þórðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Haukur Hilmarsson"
               }
             ], 
@@ -2074,63 +2665,83 @@
             "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Gísli Tryggvason"
               }, 
               {
+                "gender": "f", 
                 "name": "Kolbrún Eva Ríkharðsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Erling Ingvason"
               }, 
               {
+                "gender": "f", 
                 "name": "Hólmfríður Sólveig Haraldsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Benedikt Sigurðarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Stefanía Vigdís Gísladóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Pétur Hilmarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Arnfríður Arnardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásta Hafberg"
               }, 
               {
+                "gender": "f", 
                 "name": "Hlín Bolladóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Björk Sigurgeirsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jóhann Ævar Þórisson"
               }, 
               {
+                "gender": "m", 
                 "name": "Erlendur Steinar Friðriksson"
               }, 
               {
+                "gender": "m", 
                 "name": "Axel Jóhann Yngvason"
               }, 
               {
+                "gender": "m", 
                 "name": "Arinbjörn Kúld"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Helgi Hólmfríðarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elsa María Guðmundsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sara Kristín Bjarkardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sunna Lind Kúld"
               }, 
               {
+                "gender": "m", 
                 "name": "Tryggvi Gíslason"
               }
             ], 
@@ -2140,51 +2751,67 @@
             "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Guðrún Dadda Ásmundardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðjón Arnar Kristjánsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Brynjólfur Tómasson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásthildur Cesil Þórðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurjón Þórðarson"
               }, 
               {
+                "gender": "f", 
                 "name": "K. Hulda Guðmundsdóttir"
               }, 
               {
-                "name": "ÁsgeirEinarsson"
+                "gender": "m", 
+                "name": "Ásgeir Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Sigurjónsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Grazýna Zofia Bajda"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigfús Leví Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elísabet Anna Pétursdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Pálmi Sighvatsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hanna Þrúða Þórðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Stanislaw Kordek"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Helgason"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur G. Jónsson"
               }
             ], 
@@ -2194,81 +2821,107 @@
             "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Margrét Tryggvadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Álfheiður Eymarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Jósef Bjarnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Baldvin Björgvinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Lilja Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Haraldsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Rósa Sigurðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ægir Björgvinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Birta Jóhannesdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Pétur Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Kolbrún Pálína Hafþórsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Birgir Grímsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ingibjörg Steingrímsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Emilsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hallur Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Elín Tryggvadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Emilía Sif Ásgrímsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Bergmann Stefánsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Ásta Guðjónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Friðrik Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásta Hafberg"
               }, 
               {
+                "gender": "f", 
                 "name": "Þuríður Kristín Halldórsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Ágústa Sigrún Ágústsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Halldór Atli Nielsen Björnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Aníta Lena Baldvinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Skúli Ármannsson"
               }
             ], 
@@ -2287,69 +2940,91 @@
             "url": "http://www.vg.is/kosningar/reykjavikurkjordaemi-sudur/", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Svandís Svavarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Álfheiður Ingadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingimar Karl Helgason"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristinn Schram"
               }, 
               {
+                "gender": "m", 
                 "name": "Grímur Atlason"
               }, 
               {
+                "gender": "m", 
                 "name": "Rene Biasone"
               }, 
               {
+                "gender": "f", 
                 "name": "Auður Alfífa Ketilsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Þorgerður Agla Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gísli Garðarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Steinunn Rögnvaldsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Níels Alvin Níelsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Héðinn Björnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Auður Lilja Erlingsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðrik Atlason"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðlaug Teitsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sesselja Traustadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigursveinn Magnússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Stefánsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Hallgrímsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ármann Jakobssom"
               }, 
               {
+                "gender": "f", 
                 "name": "Ólöf Ríkarðsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Úlfar Þormóðsson"
               }
             ], 
@@ -2359,63 +3034,83 @@
             "url": "http://www.vg.is/kosningar/sudurkjordaemi/", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Arndís Soffía Sigurðardóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Inga Sigrún Atladóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þórbergur Torfason"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Bergmundur Arnbjörnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jórunn Einarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Auðunsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Steinarr B. Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigþrúður Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þormóður Logi Björnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Gestsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kjartan Ágústsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna Njálsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Samúel Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Sigríður Valdimarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurbjörn Árni Arngrímsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Marel Eggertsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þórey Bjarnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Hjartarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Jónsdóttir"
               }
             ], 
@@ -2425,63 +3120,83 @@
             "url": "http://www.vg.is/kosningar/nordausturkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Steingrímur J. Sigfússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Bjarkey Olsen Gunnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Edward H. Huijbens"
               }, 
               {
+                "gender": "f", 
                 "name": "Ingibjörg Þórðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Björn Halldórsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sóley Björk Stefánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þorbjörn Rúnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Hauksdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristjana Arngrímsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Cecil Haraldsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hrafnkell Lárusson"
               }, 
               {
+                "gender": "f", 
                 "name": "Inga Margrét Árnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarni Þóroddsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hildur Friðriksdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Andrés Skúlason"
               }, 
               {
+                "gender": "f", 
                 "name": "Jana Salóme Jósepsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Dagur Fannar Dagsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þuríður Backman"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur H. Sigurjónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Málmfríður Sigurðardóttir"
               }
             ], 
@@ -2491,81 +3206,107 @@
             "url": "http://www.vg.is/kosningar/sudvesturkjordaemi/", 
             "list": [
               {
+                "gender": "m", 
                 "name": "Ögmundur Jónasson"
               }, 
               {
+                "gender": "f", 
                 "name": "Rósa Björk Brynjólfsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ólafur Þór Gunnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðbjörg Sveinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Garðar H. Guðjónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Daníel H. Arnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Lára Jóna Þorsteinsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Helga Gunnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gestur Svavarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Stefán Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Una Hildardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarki Bjarnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Gísladóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Karl Tómasson"
               }, 
               {
+                "gender": "f", 
                 "name": "Jóhanna B. Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Hrafn Ólafsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Bryndís Brynjarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurbjörn Hjaltason"
               }, 
               {
+                "gender": "f", 
                 "name": "Signý Þórðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Andrés Magnússon"
               }, 
               {
+                "gender": "f", 
                 "name": "Þóra Elfa Björnsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Halldórsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ólafur J. Gunnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Birna Ólafsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurbergur Árnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Ágústa Guðmundsdóttir"
               }
             ], 
@@ -2575,69 +3316,91 @@
             "url": "http://www.vg.is/kosningar/reykjavikurkjordaemi-nordur/", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Katrín Jakobsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Þór Sigurðsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Steinunn Þóra Árnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Björn Valur Gíslason"
               }, 
               {
+                "gender": "f", 
                 "name": "Eyrún Eyþórsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Andrés Ingi Jónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Drífa Baldursdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristján Ketill Stefánsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Yousef Tamimi"
               }, 
               {
+                "gender": "m", 
                 "name": "Ásgrímur Angantýsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ásdís Thoroddsen"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðrik Dagur Arnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Benóný Harðarson"
               }, 
               {
+                "gender": "f", 
                 "name": "Birna Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hermann Valsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Davíð Stefánsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Sjöfn Ingólfsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Kristinsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ragnar Arnalds"
               }, 
               {
+                "gender": "f", 
                 "name": "Birna Þórðardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnsteinn Gunnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Margrét Guðnadóttir"
               }
             ], 
@@ -2647,51 +3410,67 @@
             "url": "http://www.vg.is/kosningar/nordvesturkjodaemi/", 
             "list": [
               {
+                "gender": "f", 
                 "name": "Lilja Rafney Magnúsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Lárus Ástmar Hannesson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þóra Geirlaug Bjartmarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Matthías Lýðsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Reynir Eyvindsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Valdís Einarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Trausti Sveinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Helena María Jónsdóttir Stolzenwald"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarki Þór Grönfeldt"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigrún Valdimarsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Halldóra Lóa Þorvaldsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "J. Brynjólfur H. Ásþórsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Margrét Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Guðmundsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Vigdís Kristjánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Rögnvaldur Ólafsson"
               }
             ], 
@@ -2710,69 +3489,91 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Jón Þór Ólafsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ásta Helgadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigurbjörg Erla Egilsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigríður Fossberg Thorlacius"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnaldur Sigurðarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Birkir Fannar Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Þuríður Björg Þorgrímsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jóhann Haukur Gunnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Ragnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Davíð Þór Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Davíð Halldór Lúðvíksson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hörður M. Harðarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Katla Hólm Vilbergsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Kári Magnússon"
               }, 
               {
+                "gender": "m", 
                 "name": "Sindri Páll Andrason"
               }, 
               {
+                "gender": "m", 
                 "name": "Hinrik Örn Sigurðsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Elva Rakel Sævarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Viðar Ingvason"
               }, 
               {
+                "gender": "m", 
                 "name": "Atli Pétur Óðinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Atli Viðar Þorsteinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Ragnheiður F Guðmundsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Bjarkarson"
               }
             ], 
@@ -2781,63 +3582,83 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Smári McCarthy"
               }, 
               {
+                "gender": "m", 
                 "name": "Halldór Berg Harðarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Björn Þór Jóhannesson"
               }, 
               {
+                "gender": "m", 
                 "name": "Svafar Helgason"
               }, 
               {
+                "gender": "f", 
                 "name": "Ágústa Erlingsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Arndís Einarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Guðmundsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hjalti Parelius Finnsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Örn Gunnþórsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Gunnar Sturla Ágústuson"
               }, 
               {
+                "gender": "m", 
                 "name": "Eyjólfur Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Kári Guðnason"
               }, 
               {
+                "gender": "f", 
                 "name": "Ingibjörg R. Helgadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Erla Rut Káradóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Jack Hrafnkell Daníelsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Theodór Árni Hansson"
               }, 
               {
+                "gender": "f", 
                 "name": "Hugrún Hanna Stefánsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Hólm Tryggvason"
               }, 
               {
+                "gender": "f", 
                 "name": "Sigurrós Svava Ólafsdóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Lena Sólborg Valgarðsdóttir"
               }
             ], 
@@ -2846,63 +3667,83 @@
           {
             "list": [
               {
+                "gender": "f", 
                 "name": "Aðalheiður Ámundadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Þórgnýr Thoroddsen"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Laxdal"
               }, 
               {
+                "gender": "f", 
                 "name": "Kristín Elfa Guðnadóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarki Sigursveinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Andri Yngvason"
               }, 
               {
+                "gender": "m", 
                 "name": "Mörður Ingólfsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Friðrik Bragi Dýrfjörð"
               }, 
               {
+                "gender": "m", 
                 "name": "Ingi Karl Sigríðarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Páll Ivan Pálsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Snorri Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Benedikt Kristinsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Berglind Silja Aradóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Adolf Bragi Hermannsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón Erling Ericsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jóhann Gunnar Óskarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Þröstur Jónasson"
               }, 
               {
+                "gender": "m", 
                 "name": "Stefán G. Sigurbjörnsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Óskar Vatnsdal Guðjónsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Andrea Þórdís Sigurðardóttir"
               }
             ], 
@@ -2911,81 +3752,107 @@
           {
             "list": [
               {
+                "gender": "f", 
                 "name": "Birgitta Jónsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Björn Leví Gunnarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hákon Einar Júlíusson"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Þór Þorgeirsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Berglind Ósk Bergsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Svavar Kjarrval"
               }, 
               {
+                "gender": "f", 
                 "name": "Sóley Sigurþórsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Hans Alexander Margrétarson Hansen"
               }, 
               {
+                "gender": "m", 
                 "name": "Kjartan Jónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Páll Daníelsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Theodór Helgason"
               }, 
               {
+                "gender": "m", 
                 "name": "Jakob Sv. Bjarnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristinn Geir Guðnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Hjörleifur Harðarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðmundur Páll Kjartansson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hafþór Bryndísarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Heimisson"
               }, 
               {
+                "gender": "m", 
                 "name": "Haraldur Kristinn Gyðuson"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Njálsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Hróðmar Valur Steinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Pétur Kristófersson"
               }, 
               {
+                "gender": "m", 
                 "name": "Neptúnus S. Egilsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Viktor Traustason"
               }, 
               {
+                "gender": "m", 
                 "name": "Arnbjörn Kristjánsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Örn Lúðvíksson"
               }, 
               {
+                "gender": "m", 
                 "name": "Helgi Kristinsson"
               }
             ], 
@@ -2994,69 +3861,91 @@
           {
             "list": [
               {
+                "gender": "m", 
                 "name": "Helgi Hrafn Gunnarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Halldóra Mogensen"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarni Rúnar Einarsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Salvör Kristjana"
               }, 
               {
+                "gender": "m", 
                 "name": "Þórður Sveinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Haukur Ísbjörn Jóhannsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Pétur Gylfi Kristinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Richard Allen"
               }, 
               {
+                "gender": "m", 
                 "name": "Þórhallur Helgason"
               }, 
               {
+                "gender": "f", 
                 "name": "Anna Guðbjörg Cowden"
               }, 
               {
+                "gender": "m", 
                 "name": "Valgeir Valsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Veigar Freyr Jökulsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Árni Rúnar Inaba Kjartansson"
               }, 
               {
+                "gender": "m", 
                 "name": "Jón S. Fjeldsted"
               }, 
               {
+                "gender": "m", 
                 "name": "Páll Helgason"
               }, 
               {
+                "gender": "m", 
                 "name": "Guðni Þór Guðnason"
               }, 
               {
+                "gender": "m", 
                 "name": "Baldur Jóhannsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Arnbjörg Linda Jóhannsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Ásmundur Þór Ingason"
               }, 
               {
+                "gender": "f", 
                 "name": "Eva Dögg Ísfeld Hjaltadóttir"
               }, 
               {
+                "gender": "f", 
                 "name": "Yvonne Zerah Smith"
               }, 
               {
+                "gender": "f", 
                 "name": "Irene Jóna Smith"
               }
             ], 
@@ -3065,51 +3954,67 @@
           {
             "list": [
               {
+                "gender": "f", 
                 "name": "Hildur Sif"
               }, 
               {
+                "gender": "m", 
                 "name": "Herbert Snorrason"
               }, 
               {
+                "gender": "f", 
                 "name": "Guðrún Ágústa Þórdísardóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Stefán Vignir Skarphéðinsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Tómas Árni Jónasson"
               }, 
               {
+                "gender": "m", 
                 "name": "Kristján Friðjónsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Sigurður Óskar Óskarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Einar Örn Gissurarson"
               }, 
               {
+                "gender": "m", 
                 "name": "Geir Konráð Theodórsson"
               }, 
               {
+                "gender": "f", 
                 "name": "Inga Rós Gunnarsdóttir"
               }, 
               {
+                "gender": "m", 
                 "name": "Egill Hansson"
               }, 
               {
+                "gender": "m", 
                 "name": "Andri Már Jörundsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Ævar Arnfjörð Bjarmason"
               }, 
               {
+                "gender": "m", 
                 "name": "Grétar Már Ragnarsson Amazeen"
               }, 
               {
+                "gender": "m", 
                 "name": "Úlfar Óli Sævarsson"
               }, 
               {
+                "gender": "m", 
                 "name": "Bjarki Hilmarsson"
               }
             ], 

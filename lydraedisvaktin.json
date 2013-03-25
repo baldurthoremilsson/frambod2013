@@ -5,21 +5,27 @@
       {
         "list": [
           {
+            "gender": "f", 
             "name": "Þórhildur Þorleifsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Örn Bárður Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Íris Erlingsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Guðbjörn Guðbjörnsson"
           }, 
           {
+            "gender": "m", 
             "name": "Jónas Guðmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sólveig Guðmundsdóttir"
           }
         ], 
@@ -28,21 +34,27 @@
       {
         "list": [
           {
+            "gender": "m", 
             "name": "Þorvaldur Gylfason"
           }, 
           {
+            "gender": "m", 
             "name": "Egill Ólafsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Ólafsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Viktor Orri Valgarðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Jenný Stefanía Jensdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Arnfríður Guðmundsdóttir"
           }
         ], 
@@ -51,21 +63,27 @@
       {
         "list": [
           {
+            "gender": "m", 
             "name": "Lýður Árnason"
           }, 
           {
+            "gender": "f", 
             "name": "Ástrós Signýjardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Friðrik Hansen Guðmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Guðlaugsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Árni Stefán Árnason"
           }, 
           {
+            "gender": "f", 
             "name": "Þórdís Björk Sigurþórsdóttir"
           }
         ], 

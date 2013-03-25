@@ -6,18 +6,23 @@
         "url": "http://www.afram-island.is/frambjodendur/reykjavik-sudur/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Jón E Árnason"
           }, 
           {
+            "gender": "m", 
             "name": "Pétur Fjeldsted Einarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurður Ingólfsson"
           }, 
           {
+            "gender": "f", 
             "name": "Katrín Guðjónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Kristján Árni Kristjánsson"
           }
         ], 
@@ -27,18 +32,23 @@
         "url": "http://www.afram-island.is/frambjodendur/reykjavik-nordur/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Kjartan Örn Kjartansson"
           }, 
           {
+            "gender": "m", 
             "name": "Björn Torfi Hauksson"
           }, 
           {
+            "gender": "m", 
             "name": "Kristján Orri Jóhannsson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðríður Eiríksdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Grétar Ómarsson"
           }
         ], 
@@ -48,18 +58,23 @@
         "url": "http://www.afram-island.is/frambjodendur/sudurkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Sigursveinn Þórðarson"
           }, 
           {
+            "gender": "f", 
             "name": "Agla Þýrí Kristjánsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Axel Óli Ægisson"
           }, 
           {
+            "gender": "m", 
             "name": "Þórarinn Björn Steinsson"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Birgir Indriðason"
           }
         ], 
@@ -69,18 +84,23 @@
         "url": "http://www.afram-island.is/frambjodendur/nordvesturkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Sigurjón Haraldsson"
           }, 
           {
+            "gender": "f", 
             "name": "Íris Dröfn Kristjánsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Ingi Magnússon"
           }, 
           {
+            "gender": "m", 
             "name": "Guðbrandur Jónatansson"
           }, 
           {
+            "gender": "m", 
             "name": "Haraldur Kristján Ólason"
           }
         ], 
@@ -90,18 +110,23 @@
         "url": "http://www.afram-island.is/frambjodendur/sudvesturkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Guðmundur Franklín Jónsson"
           }, 
           {
+            "gender": "m", 
             "name": "Týr Þórarinsson "
           }, 
           {
+            "gender": "m", 
             "name": "Magnús Þórarinn Thorlacius"
           }, 
           {
+            "gender": "m", 
             "name": "Helgi Helgason"
           }, 
           {
+            "gender": "m", 
             "name": "Böðvar Guðmundsson"
           }
         ], 

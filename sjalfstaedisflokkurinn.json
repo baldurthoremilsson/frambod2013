@@ -6,69 +6,91 @@
         "url": "http://www.xd.is/kosningar-2013/frambjodendur/reykjavikurkjordaemi-sudur/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Hanna Birna Kristjánsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Pétur H. Blöndal"
           }, 
           {
+            "gender": "m", 
             "name": "Guðlaugur Þór Þórðarson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Á. Andersen"
           }, 
           {
+            "gender": "f", 
             "name": "Áslaug María Friðriksdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Teitur Björn Einarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Þórey Vilhjálmsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Fanney Birna Jónsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Hulda Bjarnadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ingvar Garðarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Áslaug Arna Sigurbjörnsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Freyr Friðriksson"
           }, 
           {
+            "gender": "f", 
             "name": "Jóhanna Pálsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hannes Sigurbjörn Jónsson"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Ragnar Ríkharðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Laufey Sigurðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Margeir Vilhjálmsson"
           }, 
           {
+            "gender": "f", 
             "name": "Hrafnhildur Stefánsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Elísabet Ólöf Helgadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gísli Ragnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Alda María Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Halldór Blöndal"
           }
         ], 
@@ -78,63 +100,83 @@
         "url": "http://www.xd.is/kosningar-2013/frambjodendur/sudurkjordaemi/", 
         "list": [
           {
+            "gender": "f", 
             "name": "Ragnheiður Elín Árnadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Unnur Brá Konnráðsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ásmundur Friðriksson"
           }, 
           {
+            "gender": "m", 
             "name": "Vilhjálmur Árnason"
           }, 
           {
+            "gender": "m", 
             "name": "Geir Jón Þórisson"
           }, 
           {
+            "gender": "m", 
             "name": "Oddgeir Ágúst Ottesen"
           }, 
           {
+            "gender": "f", 
             "name": "Sandra Dís Hafþórsdóttir"
           }, 
           {
-            "name": "Trausti Hjaltason. sérfræðingur hjá LV"
+            "gender": "m", 
+            "name": "Trausti Hjaltason"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurbjartur Pálsson"
           }, 
           {
+            "gender": "m", 
             "name": "Þorsteinn M Kristinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Björg Hafsteinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ármann Einarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Lovísa Rósa Bjarnadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Rúnólfsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Markús Vernharðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigurhanna Friðþórsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Jóna Sigurbjartsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Arnar Ragnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Elínborg Ólafsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Árni Johnsen"
           }
         ], 
@@ -144,63 +186,83 @@
         "url": "http://www.xd.is/kosningar-2013/frambjodendur/nordausturkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Kristján Þór Júlíusson"
           }, 
           {
+            "gender": "f", 
             "name": "Valgerður Gunnarsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Ásta Kristín Sigurjónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jens Garðar Helgason"
           }, 
           {
+            "gender": "f", 
             "name": "Erla S. Ragnarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Bergur Þorri Benjamínsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ásdís Jóna Sigurjónsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Arnbjörg Sveinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Njáll Trausti Friðbertsson"
           }, 
           {
+            "gender": "m", 
             "name": "Björgvin Björgvinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Bergþóra Þórhallsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Soffía Björgvinsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Elín Káradóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Heimir Örn Árnason"
           }, 
           {
+            "gender": "m", 
             "name": "Ingvar Leví Gunnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "María Björk Einarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Páll Baldursson"
           }, 
           {
+            "gender": "f", 
             "name": "Emma Tryggvadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Katrín Eymundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Tómas Ingi Olrich"
           }
         ], 
@@ -210,81 +272,107 @@
         "url": "http://www.xd.is/kosningar-2013/frambjodendur/sudvesturkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Bjarni Benediktsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ragnheiður Ríkharðsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Gunnarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Vilhjálmur Bjarnason"
           }, 
           {
+            "gender": "f", 
             "name": "Elín Hirst"
           }, 
           {
+            "gender": "m", 
             "name": "Óli Björn Kárason"
           }, 
           {
+            "gender": "f", 
             "name": "Karen Elísabet Halldórsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Bryndís Loftsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Friðjón R. Friðjónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Unnur Lára Bryde"
           }, 
           {
+            "gender": "m", 
             "name": "Árni Grétar Finnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Gróa Ásgeirsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Hjördís Jóna Gísladóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Theodór Kristjánsson"
           }, 
           {
+            "gender": "f", 
             "name": "Elísabet Valgeirsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Guðmundur Geirdal"
           }, 
           {
+            "gender": "f", 
             "name": "Gunnhildur Yrsa Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurbergur Sveinsson"
           }, 
           {
+            "gender": "m", 
             "name": "Ingimar Sigurðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ingibjörg Hauksdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sveinn Guðbjartsson"
           }, 
           {
+            "gender": "m", 
             "name": "Jónas Þórir Þórisson"
           }, 
           {
+            "gender": "f", 
             "name": "Halla Halldórsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Gullveig Sæmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gunnar Sigurjónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Þorgerður Katrín Gunnarsdóttir"
           }
         ], 
@@ -294,69 +382,91 @@
         "url": "http://www.xd.is/kosningar-2013/frambjodendur/reykjavikurkjordaemi-nordur/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Illugi Gunnarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Brynjar Níelsson"
           }, 
           {
+            "gender": "m", 
             "name": "Birgir Ármannsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ingibjörg Óðinsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Elínbjörg Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Arnar Þórisson"
           }, 
           {
+            "gender": "f", 
             "name": "Erla Ósk Ásgeirsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Borgar Þór Einarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Kristín Heimisdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Erla María Tölgyes"
           }, 
           {
+            "gender": "m", 
             "name": "Hjálmar Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sandra María St. Polanska"
           }, 
           {
+            "gender": "m", 
             "name": "Auðunn Kjartansson"
           }, 
           {
+            "gender": "m", 
             "name": "Jóhann Heiðar Jóhannsson"
           }, 
           {
+            "gender": "f", 
             "name": "Heiðrún Lind Marteinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Þröstur Bragason"
           }, 
           {
+            "gender": "f", 
             "name": "Hrafnhildur Björk Baldursdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jóhann G. Ólafsson"
           }, 
           {
+            "gender": "f", 
             "name": "Þóra Berg Jónsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Hannesdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Leifur Magnússon"
           }, 
           {
+            "gender": "f", 
             "name": "Ólöf Nordal"
           }
         ], 
@@ -366,51 +476,67 @@
         "url": "http://www.xd.is/kosningar-2013/frambjodendur/nordvesturkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Einar Kristinn Guðfinnsson"
           }, 
           {
+            "gender": "m", 
             "name": "Haraldur Benediktsson"
           }, 
           {
+            "gender": "f", 
             "name": "Eyrún Ingibjörg Sigþórsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurður Örn Ágústsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sara Katrín Stefánsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Þórdís Kolbrún Reykfjörð Gylfadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Rósa Guðmundsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Heiða Dís Fjeldsted"
           }, 
           {
+            "gender": "f", 
             "name": "Berglind Guðmundsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Díana Ósk Heiðarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gunnar Atli Gunnarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Guðmundur Kjartansson"
           }, 
           {
+            "gender": "m", 
             "name": "Einar Brandsson"
           }, 
           {
+            "gender": "m", 
             "name": "Jens Kristmannsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður G. Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ásbjörn Óttarsson"
           }
         ], 

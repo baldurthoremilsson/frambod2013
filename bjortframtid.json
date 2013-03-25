@@ -6,69 +6,91 @@
       {
         "list": [
           {
+            "gender": "m", 
             "name": "Róbert Marshall"
           }, 
           {
+            "gender": "m", 
             "name": "Óttarr Proppé"
           }, 
           {
+            "gender": "f", 
             "name": "Brynhildur S. Björnsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Sigrún Gunnarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Tryggvi Haraldsson"
           }, 
           {
+            "gender": "f", 
             "name": "Auður Hermannsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Hrefna Guðmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Reynir Þór Eggertsson"
           }, 
           {
+            "gender": "m", 
             "name": "Óðinn Svansson"
           }, 
           {
+            "gender": "f", 
             "name": "Ágústa Kristín Andersen"
           }, 
           {
+            "gender": "f", 
             "name": "Sandra Ólafsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Elvar Örn Arason"
           }, 
           {
+            "gender": "f", 
             "name": "Ýr Þrastardóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Harpa Rut Hilmarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Bjarni Benediktsson"
           }, 
           {
+            "gender": "m", 
             "name": "Einar Guðnason"
           }, 
           {
+            "gender": "f", 
             "name": "Helga Kristjánsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Íris Davíðsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gunnar Hólmsteinn"
           }, 
           {
+            "gender": "m", 
             "name": "Arnar Ómarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Ólafur Egilsson"
           }, 
           {
+            "gender": "f", 
             "name": "Elsa Yeoman"
           }
         ], 
@@ -77,63 +99,83 @@
       {
         "list": [
           {
+            "gender": "m", 
             "name": "Páll Valur Björnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðlaug Elísabet Finnsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Heimir Eyvindarson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðfinna Gunnarsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Jóhanna Ýr Jónsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Lovísa Hafsteinsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Sigurbjörg Tracey"
           }, 
           {
+            "gender": "m", 
             "name": "Halldór Zoega"
           }, 
           {
+            "gender": "f", 
             "name": "Sunna Stefánsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Þórunn Einarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Kristín Sigfúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Magnús Magnússon"
           }, 
           {
+            "gender": "m", 
             "name": "Atli Fannar Bjarkason"
           }, 
           {
+            "gender": "f", 
             "name": "Jóna Júlíusdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jónas Bergmann Magnússon"
           }, 
           {
+            "gender": "m", 
             "name": "Halldór Hlöðversson"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Sigríður Jónsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Hera Björk Þórhallsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Lilja Nótt Þórarinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Pétur Skarphéðinsson"
           }
         ], 
@@ -142,63 +184,83 @@
       {
         "list": [
           {
+            "gender": "f", 
             "name": "Brynhildur Pétursdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Preben Jón Pétursson"
           }, 
           {
+            "gender": "m", 
             "name": "Stefán Már Guðmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Hanna Sigrún Helgadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Bragi S Björgvinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Brynja Reynisdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurjón Jónasson"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Hlíf Árnadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Kristín Sóley Björnsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Dagur Skírnir Óðinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Svanfríður Larsen"
           }, 
           {
+            "gender": "m", 
             "name": "Þorsteinn Hlynur Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Elísabet Karlsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Oddur L. Árnason"
           }, 
           {
+            "gender": "m", 
             "name": "Flosi Þorgeirsson"
           }, 
           {
+            "gender": "m", 
             "name": "Viðar Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Erla Björnsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hörður Ingólfsson"
           }, 
           {
+            "gender": "f", 
             "name": "Matthildur Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Rögnvaldur gáfaði"
           }
         ], 
@@ -207,81 +269,107 @@
       {
         "list": [
           {
+            "gender": "m", 
             "name": "Guðmundur Steingrímsson"
           }, 
           {
+            "gender": "f", 
             "name": "Freyja Haraldsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Guðlaug Kristjánsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Erla Karlsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Pétur Óskarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Andrés Pétursson"
           }, 
           {
+            "gender": "f", 
             "name": "Borghildur Sturludóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurður P. Sigmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ragnheiður Guðmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurjón Kjartansson"
           }, 
           {
+            "gender": "f", 
             "name": "María Pálsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Kjartan Atli Kjartansson"
           }, 
           {
+            "gender": "f", 
             "name": "Helga Bragadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Guðrún Hugadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Aldís Sigurðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hlini Melsted Jóngeirsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ragnhildur Reynisdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Snorri Páll Einarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Ingvar Valdimarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigrún Sól Ólafsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Agnar H. Johnson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Sesselja Arnardóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Auður Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Helgi Pétursson"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Örnólfsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ingvi Þorsteinsson"
           }
         ], 
@@ -290,69 +378,91 @@
       {
         "list": [
           {
+            "gender": "f", 
             "name": "Björt Ólafsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Heiða Kristín Helgadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Eldar Ástþórsson"
           }, 
           {
+            "gender": "m", 
             "name": "Friðrik Rafnsson"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Gnarr"
           }, 
           {
+            "gender": "f", 
             "name": "Sunna Jóhannsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurður Björn Blöndal"
           }, 
           {
+            "gender": "m", 
             "name": "Hjalti Vigfússon"
           }, 
           {
+            "gender": "f", 
             "name": "Brynja Björk Birgisdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gestur Guðjónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Diljá Ámundadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hörður Ágústsson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Eiríksdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Vigdís Hrefna Pálsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Karl Sigurðsson"
           }, 
           {
+            "gender": "m", 
             "name": "Valur Freyr Einarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Harpa Elísa Þórsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Hulda Proppé"
           }, 
           {
+            "gender": "f", 
             "name": "Hjördís Sjafnar Ingimundardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Haraldur Dean Nelson"
           }, 
           {
+            "gender": "m", 
             "name": "Einar Örn Benediktsson"
           }, 
           {
+            "gender": "f", 
             "name": "Hlíf Böðvarsdóttir"
           }
         ], 
@@ -361,51 +471,67 @@
       {
         "list": [
           {
+            "gender": "m", 
             "name": "Árni Múli Jónasson"
           }, 
           {
+            "gender": "m", 
             "name": "G. Valdimar Valdemarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Solveig Thorlacius"
           }, 
           {
+            "gender": "m", 
             "name": "Magnús Þór Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Soffía Vagnsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Haukur Logi Jóhannsson"
           }, 
           {
+            "gender": "f", 
             "name": "Eva Símonardóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Erna Guðmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Arnar Snæberg Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Vilborg Þ. Guðbjartsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hlöðver Ingi Gunnarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Svanberg J. Eyþórsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ágústa Þóra Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Björn Kristjánsson"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Lára Steindal"
           }, 
           {
+            "gender": "m", 
             "name": "Örn Elías Guðmundsson (Mugison)"
           }
         ], 

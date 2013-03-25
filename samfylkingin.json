@@ -6,69 +6,91 @@
         "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Reykjavik/tabid/150/ID/3826/Reykjavikurlistar_samykktir_i_fulltruarainu.aspx", 
         "list": [
           {
+            "gender": "f", 
             "name": "Sigríður Ingibjörg Ingadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Helgi Hjörvar"
           }, 
           {
+            "gender": "f", 
             "name": "Björk Vilhelmsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Mörður Árnason"
           }, 
           {
+            "gender": "f", 
             "name": "Ósk Vilhjálmsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Arnar Guðmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Freyja Steingrímsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Höskuldur Sæmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Eydís Sveinbjarnardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurður R. Beck"
           }, 
           {
+            "gender": "f", 
             "name": "Þorgerður L. Diðriksdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Reynir Sigurbjörnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Anna María Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Þorbjörn Guðmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Inga Auðbjörg Kristjánsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hilmar Sigurðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Valgerður Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Natan Kolbeinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Falasteen Abu Libdeh"
           }, 
           {
+            "gender": "m", 
             "name": "Gunnar Þórðarson"
           }, 
           {
+            "gender": "m", 
             "name": "Hrannar B. Arnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ásta R. Jóhannesdóttir"
           }
         ], 
@@ -78,63 +100,83 @@
         "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Sudur/tabid/149/ID/3841/Framboslisti_samykktur.aspx", 
         "list": [
           {
+            "gender": "f", 
             "name": "Oddný G. Harðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Björgvin G. Sigurðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Arna Ír Gunnarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Árni Rúnar Þorvaldsson"
           }, 
           {
+            "gender": "m", 
             "name": "Ólafur Þór Ólafsson"
           }, 
           {
+            "gender": "f", 
             "name": "Bryndís Sigurðarsóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Bergvin Oddsson"
           }, 
           {
+            "gender": "f", 
             "name": "Borghildur Kristinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Vilhjálmur Vilhjálmsson "
           }, 
           {
+            "gender": "m", 
             "name": "Hannes Friðriksson"
           }, 
           {
+            "gender": "f", 
             "name": "Marta Sigurðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hróðmar Bjarnason"
           }, 
           {
+            "gender": "f", 
             "name": "Dagmar Lóa Hilmarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Muhammad Azfar Karim"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Ingimundardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ingimundur B. Garðarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Soffía Sigurðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gísli Hermannsson"
           }, 
           {
+            "gender": "m", 
             "name": "Eyjólfur Eysteinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Frímannsdóttir"
           }
         ], 
@@ -144,63 +186,83 @@
         "url": "http://www.samfylkingin.is/Frettir/tabid/60/ID/3873/Framboslisti_i_Norausturkjordmi_samykktur.aspx", 
         "list": [
           {
+            "gender": "m", 
             "name": "Kristján L. Möller"
           }, 
           {
+            "gender": "f", 
             "name": "Erna Indriðadóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Jónína Rós Guðmundsdóttir "
           }, 
           {
+            "gender": "m", 
             "name": "Sigmundur Ernir Rúnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Helena Þ. Karlsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Örlygur Hnefill Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Friðbjörg J.Sigurjónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ingólfur Freysson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Elva Konráðsdóttir "
           }, 
           {
+            "gender": "f", 
             "name": "Hildur Þórisdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Bjarki Ármann Oddsson"
           }, 
           {
+            "gender": "f", 
             "name": "Herdís Björk Brynjarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Elvar Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Erna Valborg Björgvinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Skúli Björnsson"
           }, 
           {
+            "gender": "m", 
             "name": "Ásbjörn Þorsteinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Valdís Anna Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Rögnvaldur Ingólfsson"
           }, 
           {
+            "gender": "f", 
             "name": "Dagbjört Elín Pálsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Stefán Þorleifsson"
           }
         ], 
@@ -210,81 +272,107 @@
         "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Sudvestur/tabid/148/ID/3834/Framboslisti_samykktur.aspx", 
         "list": [
           {
+            "gender": "m", 
             "name": "Árni Páll Árnason"
           }, 
           {
+            "gender": "f", 
             "name": "Katrín Júlíusdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Magnús Orri Schram"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Gauja Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Lúðvík Geirsson"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Júlía Rafnsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Amal Tamimi"
           }, 
           {
+            "gender": "m", 
             "name": "Stefán Rafn Sigurbjörnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Kristmannsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hjalti Már Þórisson"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Sigríður Guðnadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Friðþjófur Helgi Karlsson"
           }, 
           {
+            "gender": "f", 
             "name": "Kristín Á. Guðmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Pálsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigurjóna Sverrisdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ragnar Gunnar Þórhallsson"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Lind Ólafsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurður Flosason"
           }, 
           {
+            "gender": "m", 
             "name": "Geir Guðbrandsson"
           }, 
           {
+            "gender": "f", 
             "name": "Dagbjört Guðmundsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Karolína Stefánsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gunnar Helgason"
           }, 
           {
+            "gender": "m", 
             "name": "Guðbjörn Sigvaldason"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Helga Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Reynir Ingibjartsson"
           }, 
           {
+            "gender": "f", 
             "name": "Jóhanna Axelsdóttir"
           }
         ], 
@@ -294,69 +382,91 @@
         "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Reykjavik/tabid/150/ID/3826/Reykjavikurlistar_samykktir_i_fulltruarainu.aspx", 
         "list": [
           {
+            "gender": "m", 
             "name": "Össur Skarphéðinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Valgerður Bjarnadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Skúli Helgason"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Margrét Guðjónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Teitur Atlason"
           }, 
           {
+            "gender": "f", 
             "name": "Hrafnhildur Ragnarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sindri Snær Einarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Dagbjört Hákonardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Guðmundur Gunnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Hanna Björg Vilhjálmsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Vilhjálmur Þorsteinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ingibjörg Guðmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Guðni Rúnar Jónasson"
           }, 
           {
+            "gender": "f", 
             "name": "Sema Erla Serdar"
           }, 
           {
+            "gender": "m", 
             "name": "Torfi H. Tulinius"
           }, 
           {
+            "gender": "f", 
             "name": "Arna Hrönn Aradóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Kjartan Valgarðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Jóhanna E. Vilhelmsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ahmed Awad"
           }, 
           {
+            "gender": "f", 
             "name": "Eva Indriðadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Dagur B. Eggertsson"
           }, 
           {
+            "gender": "f", 
             "name": "Jóhanna Sigurðardóttir"
           }
         ], 
@@ -366,51 +476,67 @@
         "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Nordvestur/tabid/136/articleType/ArticleView/articleId/3825/Framboslisti-i-Norvesturkjordmi-samykktur.aspx", 
         "list": [
           {
+            "gender": "m", 
             "name": "Guðbjartur Hannesson"
           }, 
           {
+            "gender": "f", 
             "name": "Ólína Þorvarðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hörður Ríkharðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Hlédís Sveinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Garðar Svansson"
           }, 
           {
+            "gender": "f", 
             "name": "Inga Björk Bjarnadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Benedikt Bjarnason"
           }, 
           {
+            "gender": "f", 
             "name": "Svanhildur Guðmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ólafur Þór Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Kristín Sigurrós Einarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurður Þór Ágústsson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Eggertsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Magnús Smári Snorrason"
           }, 
           {
+            "gender": "f", 
             "name": "Arna Lára Jónsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Gréta Sjöfn Guðmundsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jóhann Ársælsson"
           }
         ], 

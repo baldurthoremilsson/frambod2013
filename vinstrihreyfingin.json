@@ -6,69 +6,91 @@
         "url": "http://www.vg.is/kosningar/reykjavikurkjordaemi-sudur/", 
         "list": [
           {
+            "gender": "f", 
             "name": "Svandís Svavarsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Álfheiður Ingadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ingimar Karl Helgason"
           }, 
           {
+            "gender": "m", 
             "name": "Kristinn Schram"
           }, 
           {
+            "gender": "m", 
             "name": "Grímur Atlason"
           }, 
           {
+            "gender": "m", 
             "name": "Rene Biasone"
           }, 
           {
+            "gender": "f", 
             "name": "Auður Alfífa Ketilsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Þorgerður Agla Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gísli Garðarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Steinunn Rögnvaldsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Níels Alvin Níelsson"
           }, 
           {
+            "gender": "m", 
             "name": "Héðinn Björnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Auður Lilja Erlingsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Friðrik Atlason"
           }, 
           {
+            "gender": "f", 
             "name": "Guðlaug Teitsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Sesselja Traustadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigursveinn Magnússon"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Stefánsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Hallgrímsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ármann Jakobssom"
           }, 
           {
+            "gender": "f", 
             "name": "Ólöf Ríkarðsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Úlfar Þormóðsson"
           }
         ], 
@@ -78,63 +100,83 @@
         "url": "http://www.vg.is/kosningar/sudurkjordaemi/", 
         "list": [
           {
+            "gender": "f", 
             "name": "Arndís Soffía Sigurðardóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Inga Sigrún Atladóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Þórbergur Torfason"
           }, 
           {
+            "gender": "m", 
             "name": "Einar Bergmundur Arnbjörnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Jórunn Einarsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Guðmundur Auðunsson"
           }, 
           {
+            "gender": "m", 
             "name": "Steinarr B. Guðmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigþrúður Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Þormóður Logi Björnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Kristín Gestsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Kjartan Ágústsson"
           }, 
           {
+            "gender": "f", 
             "name": "Jóhanna Njálsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Samúel Jóhannsson"
           }, 
           {
+            "gender": "f", 
             "name": "Anna Sigríður Valdimarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurbjörn Árni Arngrímsson"
           }, 
           {
+            "gender": "m", 
             "name": "Gunnar Marel Eggertsson"
           }, 
           {
+            "gender": "f", 
             "name": "Þórey Bjarnadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Jón Hjartarson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Jónsdóttir"
           }
         ], 
@@ -144,63 +186,83 @@
         "url": "http://www.vg.is/kosningar/nordausturkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Steingrímur J. Sigfússon"
           }, 
           {
+            "gender": "f", 
             "name": "Bjarkey Olsen Gunnarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Edward H. Huijbens"
           }, 
           {
+            "gender": "f", 
             "name": "Ingibjörg Þórðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Björn Halldórsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sóley Björk Stefánsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Þorbjörn Rúnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Hauksdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Kristjana Arngrímsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Cecil Haraldsson"
           }, 
           {
+            "gender": "m", 
             "name": "Hrafnkell Lárusson"
           }, 
           {
+            "gender": "f", 
             "name": "Inga Margrét Árnadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Bjarni Þóroddsson"
           }, 
           {
+            "gender": "f", 
             "name": "Hildur Friðriksdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Andrés Skúlason"
           }, 
           {
+            "gender": "f", 
             "name": "Jana Salóme Jósepsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Dagur Fannar Dagsson"
           }, 
           {
+            "gender": "f", 
             "name": "Þuríður Backman"
           }, 
           {
+            "gender": "m", 
             "name": "Guðmundur H. Sigurjónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Málmfríður Sigurðardóttir"
           }
         ], 
@@ -210,81 +272,107 @@
         "url": "http://www.vg.is/kosningar/sudvesturkjordaemi/", 
         "list": [
           {
+            "gender": "m", 
             "name": "Ögmundur Jónasson"
           }, 
           {
+            "gender": "f", 
             "name": "Rósa Björk Brynjólfsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ólafur Þór Gunnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðbjörg Sveinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Garðar H. Guðjónsson"
           }, 
           {
+            "gender": "m", 
             "name": "Daníel H. Arnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Lára Jóna Þorsteinsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Kristín Helga Gunnarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gestur Svavarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Árni Stefán Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Una Hildardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Bjarki Bjarnason"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Gísladóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Karl Tómasson"
           }, 
           {
+            "gender": "f", 
             "name": "Jóhanna B. Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Helgi Hrafn Ólafsson"
           }, 
           {
+            "gender": "f", 
             "name": "Bryndís Brynjarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurbjörn Hjaltason"
           }, 
           {
+            "gender": "f", 
             "name": "Signý Þórðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Andrés Magnússon"
           }, 
           {
+            "gender": "f", 
             "name": "Þóra Elfa Björnsson"
           }, 
           {
+            "gender": "f", 
             "name": "Kristín Halldórsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ólafur J. Gunnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Birna Ólafsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Sigurbergur Árnason"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Ágústa Guðmundsdóttir"
           }
         ], 
@@ -294,69 +382,91 @@
         "url": "http://www.vg.is/kosningar/reykjavikurkjordaemi-nordur/", 
         "list": [
           {
+            "gender": "f", 
             "name": "Katrín Jakobsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Árni Þór Sigurðsson"
           }, 
           {
+            "gender": "f", 
             "name": "Steinunn Þóra Árnadóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Björn Valur Gíslason"
           }, 
           {
+            "gender": "f", 
             "name": "Eyrún Eyþórsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Andrés Ingi Jónsson"
           }, 
           {
+            "gender": "f", 
             "name": "Drífa Baldursdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Kristján Ketill Stefánsson"
           }, 
           {
+            "gender": "m", 
             "name": "Yousef Tamimi"
           }, 
           {
+            "gender": "m", 
             "name": "Ásgrímur Angantýsson"
           }, 
           {
+            "gender": "f", 
             "name": "Ásdís Thoroddsen"
           }, 
           {
+            "gender": "m", 
             "name": "Friðrik Dagur Arnarsson"
           }, 
           {
+            "gender": "m", 
             "name": "Benóný Harðarson"
           }, 
           {
+            "gender": "f", 
             "name": "Birna Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Hermann Valsson"
           }, 
           {
+            "gender": "m", 
             "name": "Davíð Stefánsson"
           }, 
           {
+            "gender": "f", 
             "name": "Sjöfn Ingólfsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Sigríður Kristinsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Ragnar Arnalds"
           }, 
           {
+            "gender": "f", 
             "name": "Birna Þórðardóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Gunnsteinn Gunnarsson"
           }, 
           {
+            "gender": "f", 
             "name": "Margrét Guðnadóttir"
           }
         ], 
@@ -366,51 +476,67 @@
         "url": "http://www.vg.is/kosningar/nordvesturkjodaemi/", 
         "list": [
           {
+            "gender": "f", 
             "name": "Lilja Rafney Magnúsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Lárus Ástmar Hannesson"
           }, 
           {
+            "gender": "f", 
             "name": "Þóra Geirlaug Bjartmarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Matthías Lýðsson"
           }, 
           {
+            "gender": "m", 
             "name": "Reynir Eyvindsson"
           }, 
           {
+            "gender": "f", 
             "name": "Valdís Einarsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Trausti Sveinsson"
           }, 
           {
+            "gender": "f", 
             "name": "Helena María Jónsdóttir Stolzenwald"
           }, 
           {
+            "gender": "m", 
             "name": "Bjarki Þór Grönfeldt"
           }, 
           {
+            "gender": "f", 
             "name": "Sigrún Valdimarsdóttir"
           }, 
           {
+            "gender": "f", 
             "name": "Halldóra Lóa Þorvaldsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "J. Brynjólfur H. Ásþórsson"
           }, 
           {
+            "gender": "f", 
             "name": "Guðrún Margrét Jónsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Helgi Guðmundsson"
           }, 
           {
+            "gender": "f", 
             "name": "Vigdís Kristjánsdóttir"
           }, 
           {
+            "gender": "m", 
             "name": "Rögnvaldur Ólafsson"
           }
         ], 
