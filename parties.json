@@ -2281,6 +2281,425 @@
     }, 
     {
       "url": "http://www.vg.is", 
+      "candidates": {
+        "constituencies": [
+          {
+            "url": "http://www.vg.is/kosningar/reykjavikurkjordaemi-sudur/", 
+            "list": [
+              {
+                "name": "Svandís Svavarsdóttir"
+              }, 
+              {
+                "name": "Álfheiður Ingadóttir"
+              }, 
+              {
+                "name": "Ingimar Karl Helgason"
+              }, 
+              {
+                "name": "Kristinn Schram"
+              }, 
+              {
+                "name": "Grímur Atlason"
+              }, 
+              {
+                "name": "Rene Biasone"
+              }, 
+              {
+                "name": "Auður Alfífa Ketilsdóttir"
+              }, 
+              {
+                "name": "Þorgerður Agla Magnúsdóttir"
+              }, 
+              {
+                "name": "Gísli Garðarsson"
+              }, 
+              {
+                "name": "Steinunn Rögnvaldsdóttir"
+              }, 
+              {
+                "name": "Níels Alvin Níelsson"
+              }, 
+              {
+                "name": "Héðinn Björnsson"
+              }, 
+              {
+                "name": "Auður Lilja Erlingsdóttir"
+              }, 
+              {
+                "name": "Friðrik Atlason"
+              }, 
+              {
+                "name": "Guðlaug Teitsdóttir"
+              }, 
+              {
+                "name": "Sesselja Traustadóttir"
+              }, 
+              {
+                "name": "Sigursveinn Magnússon"
+              }, 
+              {
+                "name": "Sigríður Stefánsdóttir"
+              }, 
+              {
+                "name": "Guðrún Hallgrímsdóttir"
+              }, 
+              {
+                "name": "Ármann Jakobssom"
+              }, 
+              {
+                "name": "Ólöf Ríkarðsdóttir"
+              }, 
+              {
+                "name": "Úlfar Þormóðsson"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi suður"
+          }, 
+          {
+            "url": "http://www.vg.is/kosningar/sudurkjordaemi/", 
+            "list": [
+              {
+                "name": "Arndís Soffía Sigurðardóttir"
+              }, 
+              {
+                "name": "Inga Sigrún Atladóttir"
+              }, 
+              {
+                "name": "Þórbergur Torfason"
+              }, 
+              {
+                "name": "Einar Bergmundur Arnbjörnsson"
+              }, 
+              {
+                "name": "Jórunn Einarsdóttir"
+              }, 
+              {
+                "name": "Margrét Magnúsdóttir"
+              }, 
+              {
+                "name": "Guðmundur Auðunsson"
+              }, 
+              {
+                "name": "Steinarr B. Guðmundsson"
+              }, 
+              {
+                "name": "Sigþrúður Jónsdóttir"
+              }, 
+              {
+                "name": "Þormóður Logi Björnsson"
+              }, 
+              {
+                "name": "Kristín Gestsdóttir"
+              }, 
+              {
+                "name": "Kjartan Ágústsson"
+              }, 
+              {
+                "name": "Jóhanna Njálsdóttir"
+              }, 
+              {
+                "name": "Samúel Jóhannsson"
+              }, 
+              {
+                "name": "Anna Sigríður Valdimarsdóttir"
+              }, 
+              {
+                "name": "Sigurbjörn Árni Arngrímsson"
+              }, 
+              {
+                "name": "Gunnar Marel Eggertsson"
+              }, 
+              {
+                "name": "Þórey Bjarnadóttir"
+              }, 
+              {
+                "name": "Jón Hjartarson"
+              }, 
+              {
+                "name": "Guðrún Jónsdóttir"
+              }
+            ], 
+            "name": "Suðurkjördæmi"
+          }, 
+          {
+            "url": "http://www.vg.is/kosningar/nordausturkjordaemi/", 
+            "list": [
+              {
+                "name": "Steingrímur J. Sigfússon"
+              }, 
+              {
+                "name": "Bjarkey Olsen Gunnarsdóttir"
+              }, 
+              {
+                "name": "Edward H. Huijbens"
+              }, 
+              {
+                "name": "Ingibjörg Þórðardóttir"
+              }, 
+              {
+                "name": "Björn Halldórsson"
+              }, 
+              {
+                "name": "Sóley Björk Stefánsdóttir"
+              }, 
+              {
+                "name": "Þorbjörn Rúnarsson"
+              }, 
+              {
+                "name": "Sigríður Hauksdóttir"
+              }, 
+              {
+                "name": "Kristjana Arngrímsdóttir"
+              }, 
+              {
+                "name": "Cecil Haraldsson"
+              }, 
+              {
+                "name": "Hrafnkell Lárusson"
+              }, 
+              {
+                "name": "Inga Margrét Árnadóttir"
+              }, 
+              {
+                "name": "Bjarni Þóroddsson"
+              }, 
+              {
+                "name": "Hildur Friðriksdóttir"
+              }, 
+              {
+                "name": "Andrés Skúlason"
+              }, 
+              {
+                "name": "Jana Salóme Jósepsdóttir"
+              }, 
+              {
+                "name": "Dagur Fannar Dagsson"
+              }, 
+              {
+                "name": "Þuríður Backman"
+              }, 
+              {
+                "name": "Guðmundur H. Sigurjónsson"
+              }, 
+              {
+                "name": "Málmfríður Sigurðardóttir"
+              }
+            ], 
+            "name": "Norðausturkjördæmi"
+          }, 
+          {
+            "url": "http://www.vg.is/kosningar/sudvesturkjordaemi/", 
+            "list": [
+              {
+                "name": "Ögmundur Jónasson"
+              }, 
+              {
+                "name": "Rósa Björk Brynjólfsdóttir"
+              }, 
+              {
+                "name": "Ólafur Þór Gunnarsson"
+              }, 
+              {
+                "name": "Guðbjörg Sveinsdóttir"
+              }, 
+              {
+                "name": "Garðar H. Guðjónsson"
+              }, 
+              {
+                "name": "Daníel H. Arnarsson"
+              }, 
+              {
+                "name": "Lára Jóna Þorsteinsdóttir"
+              }, 
+              {
+                "name": "Kristín Helga Gunnarsdóttir"
+              }, 
+              {
+                "name": "Gestur Svavarsson"
+              }, 
+              {
+                "name": "Árni Stefán Jónsson"
+              }, 
+              {
+                "name": "Una Hildardóttir"
+              }, 
+              {
+                "name": "Bjarki Bjarnason"
+              }, 
+              {
+                "name": "Sigríður Gísladóttir"
+              }, 
+              {
+                "name": "Karl Tómasson"
+              }, 
+              {
+                "name": "Jóhanna B. Magnúsdóttir"
+              }, 
+              {
+                "name": "Helgi Hrafn Ólafsson"
+              }, 
+              {
+                "name": "Bryndís Brynjarsdóttir"
+              }, 
+              {
+                "name": "Sigurbjörn Hjaltason"
+              }, 
+              {
+                "name": "Signý Þórðardóttir"
+              }, 
+              {
+                "name": "Andrés Magnússon"
+              }, 
+              {
+                "name": "Þóra Elfa Björnsson"
+              }, 
+              {
+                "name": "Kristín Halldórsdóttir"
+              }, 
+              {
+                "name": "Ólafur J. Gunnarsson"
+              }, 
+              {
+                "name": "Birna Ólafsdóttir"
+              }, 
+              {
+                "name": "Sigurbergur Árnason"
+              }, 
+              {
+                "name": "Guðrún Ágústa Guðmundsdóttir"
+              }
+            ], 
+            "name": "Suðvesturkjördæmi"
+          }, 
+          {
+            "url": "http://www.vg.is/kosningar/reykjavikurkjordaemi-nordur/", 
+            "list": [
+              {
+                "name": "Katrín Jakobsdóttir"
+              }, 
+              {
+                "name": "Árni Þór Sigurðsson"
+              }, 
+              {
+                "name": "Steinunn Þóra Árnadóttir"
+              }, 
+              {
+                "name": "Björn Valur Gíslason"
+              }, 
+              {
+                "name": "Eyrún Eyþórsdóttir"
+              }, 
+              {
+                "name": "Andrés Ingi Jónsson"
+              }, 
+              {
+                "name": "Drífa Baldursdóttir"
+              }, 
+              {
+                "name": "Kristján Ketill Stefánsson"
+              }, 
+              {
+                "name": "Yousef Tamimi"
+              }, 
+              {
+                "name": "Ásgrímur Angantýsson"
+              }, 
+              {
+                "name": "Ásdís Thoroddsen"
+              }, 
+              {
+                "name": "Friðrik Dagur Arnarsson"
+              }, 
+              {
+                "name": "Benóný Harðarson"
+              }, 
+              {
+                "name": "Birna Magnúsdóttir"
+              }, 
+              {
+                "name": "Hermann Valsson"
+              }, 
+              {
+                "name": "Davíð Stefánsson"
+              }, 
+              {
+                "name": "Sjöfn Ingólfsdóttir"
+              }, 
+              {
+                "name": "Sigríður Kristinsdóttir"
+              }, 
+              {
+                "name": "Ragnar Arnalds"
+              }, 
+              {
+                "name": "Birna Þórðardóttir"
+              }, 
+              {
+                "name": "Gunnsteinn Gunnarsson"
+              }, 
+              {
+                "name": "Margrét Guðnadóttir"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi norður"
+          }, 
+          {
+            "url": "http://www.vg.is/kosningar/nordvesturkjodaemi/", 
+            "list": [
+              {
+                "name": "Lilja Rafney Magnúsdóttir"
+              }, 
+              {
+                "name": "Lárus Ástmar Hannesson"
+              }, 
+              {
+                "name": "Þóra Geirlaug Bjartmarsdóttir"
+              }, 
+              {
+                "name": "Matthías Lýðsson"
+              }, 
+              {
+                "name": "Reynir Eyvindsson"
+              }, 
+              {
+                "name": "Valdís Einarsdóttir"
+              }, 
+              {
+                "name": "Trausti Sveinsson"
+              }, 
+              {
+                "name": "Helena María Jónsdóttir Stolzenwald"
+              }, 
+              {
+                "name": "Bjarki Þór Grönfeldt"
+              }, 
+              {
+                "name": "Sigrún Valdimarsdóttir"
+              }, 
+              {
+                "name": "Halldóra Lóa Þorvaldsdóttir"
+              }, 
+              {
+                "name": "J. Brynjólfur H. Ásþórsson"
+              }, 
+              {
+                "name": "Guðrún Margrét Jónsdóttir"
+              }, 
+              {
+                "name": "Helgi Guðmundsson"
+              }, 
+              {
+                "name": "Vigdís Kristjánsdóttir"
+              }, 
+              {
+                "name": "Rögnvaldur Ólafsson"
+              }
+            ], 
+            "name": "Norðvesturkjördæmi"
+          }
+        ], 
+        "url": "http://www.vg.is/kosningar/"
+      }, 
       "name": "Vinstrihreyfingin - grænt framboð", 
       "letter": "V"
     }, 
