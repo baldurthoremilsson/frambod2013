@@ -1,5 +1,423 @@
 {
-  "letter": "S",
-  "name": "Samfylkingin",
-  "url": "http://www.samfylkingin.is/"
+  "url": "http://www.samfylkingin.is/", 
+  "candidates": {
+    "constituencies": [
+      {
+        "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Reykjavik/tabid/150/ID/3826/Reykjavikurlistar_samykktir_i_fulltruarainu.aspx", 
+        "list": [
+          {
+            "name": "Sigríður Ingibjörg Ingadóttir"
+          }, 
+          {
+            "name": "Helgi Hjörvar"
+          }, 
+          {
+            "name": "Björk Vilhelmsdóttir"
+          }, 
+          {
+            "name": "Mörður Árnason"
+          }, 
+          {
+            "name": "Ósk Vilhjálmsdóttir"
+          }, 
+          {
+            "name": "Arnar Guðmundsson"
+          }, 
+          {
+            "name": "Freyja Steingrímsdóttir"
+          }, 
+          {
+            "name": "Höskuldur Sæmundsson"
+          }, 
+          {
+            "name": "Eydís Sveinbjarnardóttir"
+          }, 
+          {
+            "name": "Sigurður R. Beck"
+          }, 
+          {
+            "name": "Þorgerður L. Diðriksdóttir"
+          }, 
+          {
+            "name": "Reynir Sigurbjörnsson"
+          }, 
+          {
+            "name": "Anna María Jónsdóttir"
+          }, 
+          {
+            "name": "Þorbjörn Guðmundsson"
+          }, 
+          {
+            "name": "Inga Auðbjörg Kristjánsdóttir"
+          }, 
+          {
+            "name": "Hilmar Sigurðsson"
+          }, 
+          {
+            "name": "Valgerður Magnúsdóttir"
+          }, 
+          {
+            "name": "Natan Kolbeinsson"
+          }, 
+          {
+            "name": "Falasteen Abu Libdeh"
+          }, 
+          {
+            "name": "Gunnar Þórðarson"
+          }, 
+          {
+            "name": "Hrannar B. Arnarsson"
+          }, 
+          {
+            "name": "Ásta R. Jóhannesdóttir"
+          }
+        ], 
+        "name": "Reykjavíkurkjördæmi suður"
+      }, 
+      {
+        "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Sudur/tabid/149/ID/3841/Framboslisti_samykktur.aspx", 
+        "list": [
+          {
+            "name": "Oddný G. Harðardóttir"
+          }, 
+          {
+            "name": "Björgvin G. Sigurðsson"
+          }, 
+          {
+            "name": "Arna Ír Gunnarsdóttir"
+          }, 
+          {
+            "name": "Árni Rúnar Þorvaldsson"
+          }, 
+          {
+            "name": "Ólafur Þór Ólafsson"
+          }, 
+          {
+            "name": "Bryndís Sigurðarsóttir"
+          }, 
+          {
+            "name": "Bergvin Oddsson"
+          }, 
+          {
+            "name": "Borghildur Kristinsdóttir"
+          }, 
+          {
+            "name": "Vilhjálmur Vilhjálmsson "
+          }, 
+          {
+            "name": "Hannes Friðriksson"
+          }, 
+          {
+            "name": "Marta Sigurðardóttir"
+          }, 
+          {
+            "name": "Hróðmar Bjarnason"
+          }, 
+          {
+            "name": "Dagmar Lóa Hilmarsdóttir"
+          }, 
+          {
+            "name": "Muhammad Azfar Karim"
+          }, 
+          {
+            "name": "Guðrún Ingimundardóttir"
+          }, 
+          {
+            "name": "Ingimundur B. Garðarsson"
+          }, 
+          {
+            "name": "Soffía Sigurðardóttir"
+          }, 
+          {
+            "name": "Gísli Hermannsson"
+          }, 
+          {
+            "name": "Eyjólfur Eysteinsson"
+          }, 
+          {
+            "name": "Margrét Frímannsdóttir"
+          }
+        ], 
+        "name": "Suðurkjördæmi"
+      }, 
+      {
+        "url": "http://www.samfylkingin.is/Frettir/tabid/60/ID/3873/Framboslisti_i_Norausturkjordmi_samykktur.aspx", 
+        "list": [
+          {
+            "name": "Kristján L. Möller"
+          }, 
+          {
+            "name": "Erna Indriðadóttir"
+          }, 
+          {
+            "name": "Jónína Rós Guðmundsdóttir "
+          }, 
+          {
+            "name": "Sigmundur Ernir Rúnarsson"
+          }, 
+          {
+            "name": "Helena Þ. Karlsdóttir"
+          }, 
+          {
+            "name": "Örlygur Hnefill Jónsson"
+          }, 
+          {
+            "name": "Friðbjörg J.Sigurjónsdóttir"
+          }, 
+          {
+            "name": "Ingólfur Freysson"
+          }, 
+          {
+            "name": "Sigríður Elva Konráðsdóttir "
+          }, 
+          {
+            "name": "Hildur Þórisdóttir"
+          }, 
+          {
+            "name": "Bjarki Ármann Oddsson"
+          }, 
+          {
+            "name": "Herdís Björk Brynjarsdóttir"
+          }, 
+          {
+            "name": "Elvar Jónsson"
+          }, 
+          {
+            "name": "Erna Valborg Björgvinsdóttir"
+          }, 
+          {
+            "name": "Skúli Björnsson"
+          }, 
+          {
+            "name": "Ásbjörn Þorsteinsson"
+          }, 
+          {
+            "name": "Valdís Anna Jónsdóttir"
+          }, 
+          {
+            "name": "Rögnvaldur Ingólfsson"
+          }, 
+          {
+            "name": "Dagbjört Elín Pálsdóttir"
+          }, 
+          {
+            "name": "Stefán Þorleifsson"
+          }
+        ], 
+        "name": "Norðausturkjördæmi"
+      }, 
+      {
+        "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Sudvestur/tabid/148/ID/3834/Framboslisti_samykktur.aspx", 
+        "list": [
+          {
+            "name": "Árni Páll Árnason"
+          }, 
+          {
+            "name": "Katrín Júlíusdóttir"
+          }, 
+          {
+            "name": "Magnús Orri Schram"
+          }, 
+          {
+            "name": "Margrét Gauja Magnúsdóttir"
+          }, 
+          {
+            "name": "Lúðvík Geirsson"
+          }, 
+          {
+            "name": "Margrét Júlía Rafnsdóttir"
+          }, 
+          {
+            "name": "Amal Tamimi"
+          }, 
+          {
+            "name": "Stefán Rafn Sigurbjörnsson"
+          }, 
+          {
+            "name": "Margrét Kristmannsdóttir"
+          }, 
+          {
+            "name": "Hjalti Már Þórisson"
+          }, 
+          {
+            "name": "Anna Sigríður Guðnadóttir"
+          }, 
+          {
+            "name": "Friðþjófur Helgi Karlsson"
+          }, 
+          {
+            "name": "Kristín Á. Guðmundsdóttir"
+          }, 
+          {
+            "name": "Jón Pálsson"
+          }, 
+          {
+            "name": "Sigurjóna Sverrisdóttir"
+          }, 
+          {
+            "name": "Ragnar Gunnar Þórhallsson"
+          }, 
+          {
+            "name": "Margrét Lind Ólafsdóttir"
+          }, 
+          {
+            "name": "Sigurður Flosason"
+          }, 
+          {
+            "name": "Geir Guðbrandsson"
+          }, 
+          {
+            "name": "Dagbjört Guðmundsdóttir"
+          }, 
+          {
+            "name": "Karolína Stefánsdóttir"
+          }, 
+          {
+            "name": "Gunnar Helgason"
+          }, 
+          {
+            "name": "Guðbjörn Sigvaldason"
+          }, 
+          {
+            "name": "Guðrún Helga Jónsdóttir"
+          }, 
+          {
+            "name": "Reynir Ingibjartsson"
+          }, 
+          {
+            "name": "Jóhanna Axelsdóttir"
+          }
+        ], 
+        "name": "Suðvesturkjördæmi"
+      }, 
+      {
+        "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Reykjavik/tabid/150/ID/3826/Reykjavikurlistar_samykktir_i_fulltruarainu.aspx", 
+        "list": [
+          {
+            "name": "Össur Skarphéðinsson"
+          }, 
+          {
+            "name": "Valgerður Bjarnadóttir"
+          }, 
+          {
+            "name": "Skúli Helgason"
+          }, 
+          {
+            "name": "Anna Margrét Guðjónsdóttir"
+          }, 
+          {
+            "name": "Teitur Atlason"
+          }, 
+          {
+            "name": "Hrafnhildur Ragnarsdóttir"
+          }, 
+          {
+            "name": "Sindri Snær Einarsson"
+          }, 
+          {
+            "name": "Dagbjört Hákonardóttir"
+          }, 
+          {
+            "name": "Guðmundur Gunnarsson"
+          }, 
+          {
+            "name": "Hanna Björg Vilhjálmsdóttir"
+          }, 
+          {
+            "name": "Vilhjálmur Þorsteinsson"
+          }, 
+          {
+            "name": "Ingibjörg Guðmundsdóttir"
+          }, 
+          {
+            "name": "Guðni Rúnar Jónasson"
+          }, 
+          {
+            "name": "Sema Erla Serdar"
+          }, 
+          {
+            "name": "Torfi H. Tulinius"
+          }, 
+          {
+            "name": "Arna Hrönn Aradóttir"
+          }, 
+          {
+            "name": "Kjartan Valgarðsson"
+          }, 
+          {
+            "name": "Jóhanna E. Vilhelmsdóttir"
+          }, 
+          {
+            "name": "Ahmed Awad"
+          }, 
+          {
+            "name": "Eva Indriðadóttir"
+          }, 
+          {
+            "name": "Dagur B. Eggertsson"
+          }, 
+          {
+            "name": "Jóhanna Sigurðardóttir"
+          }
+        ], 
+        "name": "Reykjavíkurkjördæmi norður"
+      }, 
+      {
+        "url": "http://www.samfylkingin.is/Frettir/Frettir_-_Nordvestur/tabid/136/articleType/ArticleView/articleId/3825/Framboslisti-i-Norvesturkjordmi-samykktur.aspx", 
+        "list": [
+          {
+            "name": "Guðbjartur Hannesson"
+          }, 
+          {
+            "name": "Ólína Þorvarðardóttir"
+          }, 
+          {
+            "name": "Hörður Ríkharðsson"
+          }, 
+          {
+            "name": "Hlédís Sveinsdóttir"
+          }, 
+          {
+            "name": "Garðar Svansson"
+          }, 
+          {
+            "name": "Inga Björk Bjarnadóttir"
+          }, 
+          {
+            "name": "Benedikt Bjarnason"
+          }, 
+          {
+            "name": "Svanhildur Guðmundsdóttir"
+          }, 
+          {
+            "name": "Ólafur Þór Jónsson"
+          }, 
+          {
+            "name": "Kristín Sigurrós Einarsdóttir"
+          }, 
+          {
+            "name": "Sigurður Þór Ágústsson"
+          }, 
+          {
+            "name": "Guðrún Eggertsdóttir"
+          }, 
+          {
+            "name": "Magnús Smári Snorrason"
+          }, 
+          {
+            "name": "Arna Lára Jónsdóttir"
+          }, 
+          {
+            "name": "Gréta Sjöfn Guðmundsdóttir"
+          }, 
+          {
+            "name": "Jóhann Ársælsson"
+          }
+        ], 
+        "name": "Norðvesturkjördæmi"
+      }
+    ]
+  }, 
+  "name": "Samfylkingin", 
+  "letter": "S"
 }
