@@ -1924,6 +1924,358 @@
     }, 
     {
       "url": "http://www.xdogun.is/", 
+      "candidates": {
+        "constituencies": [
+          {
+            "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
+            "list": [
+              {
+                "name": "Þórður Björn Sigurðsson"
+              }, 
+              {
+                "name": "Jóhannes Björn Lúðvíksson"
+              }, 
+              {
+                "name": "Helga Þórðardóttir"
+              }, 
+              {
+                "name": "Rannveig Óskarsdóttir"
+              }, 
+              {
+                "name": "Sigurður Jónas Eggertsson"
+              }, 
+              {
+                "name": "Hugrún Steinunn Guðmundsdóttir"
+              }, 
+              {
+                "name": "Birgir Skúlason"
+              }, 
+              {
+                "name": "Eva Guðrún Gunnbjörnsdóttir"
+              }, 
+              {
+                "name": "Hannes Ingi Guðmundsson"
+              }, 
+              {
+                "name": "Lena Mist Skaptadóttir"
+              }, 
+              {
+                "name": "Milen Nikolaev Nikolov"
+              }, 
+              {
+                "name": "Sigrún Viðarsdóttir"
+              }, 
+              {
+                "name": "Tyrfingur Tyrfingsson"
+              }, 
+              {
+                "name": "Longina Losiniecka"
+              }, 
+              {
+                "name": "Þórður Magnússon"
+              }, 
+              {
+                "name": "Irena Damrath"
+              }, 
+              {
+                "name": "Arnar Bergur Guðjónsson"
+              }, 
+              {
+                "name": "Friðrikka Edda Þórarinsdóttir"
+              }, 
+              {
+                "name": "Páll Heiðar M. Aadnegard"
+              }, 
+              {
+                "name": "Sigurbjörg Guttormsdóttir"
+              }, 
+              {
+                "name": "Magnús Bjarnarson"
+              }, 
+              {
+                "name": "Herdís Dröfn Baldvinsdóttir"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi suður"
+          }, 
+          {
+            "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
+            "list": [
+              {
+                "name": "Ólöf Guðný Valdimarsdóttir"
+              }, 
+              {
+                "name": "Hólmsteinn Brekkan"
+              }, 
+              {
+                "name": "Ása Lind Finnbogadóttir"
+              }, 
+              {
+                "name": "Friðrik Þór Guðmundsson"
+              }, 
+              {
+                "name": "Hólmfríður Berentsdóttir"
+              }, 
+              {
+                "name": "Vilhjálmur Árnason"
+              }, 
+              {
+                "name": "Sveinlaug Sigurðardóttir"
+              }, 
+              {
+                "name": "Daði Guðbjörnsson"
+              }, 
+              {
+                "name": "Kristbjörg María Gunnarsdóttir"
+              }, 
+              {
+                "name": "Bárður Ragnar Jónsson"
+              }, 
+              {
+                "name": "Lena Guðrún Hákonardóttir"
+              }, 
+              {
+                "name": "Þórður Grétarsson"
+              }, 
+              {
+                "name": "Gunnhildur Valdimarsdóttir"
+              }, 
+              {
+                "name": "Hermann Arnar Austmar"
+              }, 
+              {
+                "name": "Valgerður Árnadóttir"
+              }, 
+              {
+                "name": "Sigurður Þengill Þórðarson"
+              }, 
+              {
+                "name": "Auður Halldórsdóttir"
+              }, 
+              {
+                "name": "Ívar Rafn Jónsson"
+              }, 
+              {
+                "name": "Sigurlaug Sigurðardóttir"
+              }, 
+              {
+                "name": "Erla Bolladóttir"
+              }, 
+              {
+                "name": "Vera Þórðardóttir"
+              }, 
+              {
+                "name": "Haukur Hilmarsson"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi norður"
+          }, 
+          {
+            "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
+            "list": [
+              {
+                "name": "Gísli Tryggvason"
+              }, 
+              {
+                "name": "Kolbrún Eva Ríkharðsdóttir"
+              }, 
+              {
+                "name": "Erling Ingvason"
+              }, 
+              {
+                "name": "Hólmfríður Sólveig Haraldsdóttir"
+              }, 
+              {
+                "name": "Benedikt Sigurðarson"
+              }, 
+              {
+                "name": "Stefanía Vigdís Gísladóttir"
+              }, 
+              {
+                "name": "Árni Pétur Hilmarsson"
+              }, 
+              {
+                "name": "Arnfríður Arnardóttir"
+              }, 
+              {
+                "name": "Ásta Hafberg"
+              }, 
+              {
+                "name": "Hlín Bolladóttir"
+              }, 
+              {
+                "name": "Björk Sigurgeirsdóttir"
+              }, 
+              {
+                "name": "Jóhann Ævar Þórisson"
+              }, 
+              {
+                "name": "Erlendur Steinar Friðriksson"
+              }, 
+              {
+                "name": "Axel Jóhann Yngvason"
+              }, 
+              {
+                "name": "Arinbjörn Kúld"
+              }, 
+              {
+                "name": "Haraldur Helgi Hólmfríðarson"
+              }, 
+              {
+                "name": "Elsa María Guðmundsdóttir"
+              }, 
+              {
+                "name": "Sara Kristín Bjarkardóttir"
+              }, 
+              {
+                "name": "Sunna Lind Kúld"
+              }, 
+              {
+                "name": "Tryggvi Gíslason"
+              }
+            ], 
+            "name": "Norðausturkjördæmi"
+          }, 
+          {
+            "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
+            "list": [
+              {
+                "name": "Guðrún Dadda Ásmundardóttir"
+              }, 
+              {
+                "name": "Guðjón Arnar Kristjánsson"
+              }, 
+              {
+                "name": "Brynjólfur Tómasson"
+              }, 
+              {
+                "name": "Ásthildur Cesil Þórðardóttir"
+              }, 
+              {
+                "name": "Sigurjón Þórðarson"
+              }, 
+              {
+                "name": "K. Hulda Guðmundsdóttir"
+              }, 
+              {
+                "name": "ÁsgeirEinarsson"
+              }, 
+              {
+                "name": "Sigríður Sigurjónsdóttir"
+              }, 
+              {
+                "name": "Grazýna Zofia Bajda"
+              }, 
+              {
+                "name": "Sigfús Leví Jónsson"
+              }, 
+              {
+                "name": "Elísabet Anna Pétursdóttir"
+              }, 
+              {
+                "name": "Pálmi Sighvatsson"
+              }, 
+              {
+                "name": "Hanna Þrúða Þórðardóttir"
+              }, 
+              {
+                "name": "Stanislaw Kordek"
+              }, 
+              {
+                "name": "Helgi Helgason"
+              }, 
+              {
+                "name": "Guðmundur G. Jónsson"
+              }
+            ], 
+            "name": "Norðvesturkjördæmi"
+          }, 
+          {
+            "url": "http://xdogun.is/samthykktir-frambodslistar-i-fimm-kjordaemum/", 
+            "list": [
+              {
+                "name": "Margrét Tryggvadóttir"
+              }, 
+              {
+                "name": "Álfheiður Eymarsdóttir"
+              }, 
+              {
+                "name": "Jón Jósef Bjarnason"
+              }, 
+              {
+                "name": "Baldvin Björgvinsson"
+              }, 
+              {
+                "name": "Guðrún Lilja Guðmundsdóttir"
+              }, 
+              {
+                "name": "Haraldur Haraldsson"
+              }, 
+              {
+                "name": "Margrét Rósa Sigurðardóttir"
+              }, 
+              {
+                "name": "Ægir Björgvinsson"
+              }, 
+              {
+                "name": "Birta Jóhannesdóttir"
+              }, 
+              {
+                "name": "Pétur Guðmundsson"
+              }, 
+              {
+                "name": "Kolbrún Pálína Hafþórsdóttir"
+              }, 
+              {
+                "name": "Birgir Grímsson"
+              }, 
+              {
+                "name": "Ingibjörg Steingrímsdóttir"
+              }, 
+              {
+                "name": "Haraldur Emilsson"
+              }, 
+              {
+                "name": "Hallur Guðmundsson"
+              }, 
+              {
+                "name": "Elín Tryggvadóttir"
+              }, 
+              {
+                "name": "Emilía Sif Ásgrímsdóttir"
+              }, 
+              {
+                "name": "Gunnar Bergmann Stefánsson"
+              }, 
+              {
+                "name": "Guðrún Ásta Guðjónsdóttir"
+              }, 
+              {
+                "name": "Jón Friðrik Jóhannsson"
+              }, 
+              {
+                "name": "Ásta Hafberg"
+              }, 
+              {
+                "name": "Þuríður Kristín Halldórsdóttir"
+              }, 
+              {
+                "name": "Ágústa Sigrún Ágústsdóttir"
+              }, 
+              {
+                "name": "Halldór Atli Nielsen Björnsson"
+              }, 
+              {
+                "name": "Aníta Lena Baldvinsdóttir"
+              }, 
+              {
+                "name": "Gunnar Skúli Ármannsson"
+              }
+            ], 
+            "name": "Suðvesturkjördæmi"
+          }
+        ]
+      }, 
       "name": "Dögun - stjórnmálasamtök um réttlæti, sanngirni og lýðræði", 
       "letter": "T"
     }, 
