@@ -2705,6 +2705,131 @@
     }, 
     {
       "url": "http://www.piratar.is/", 
+      "candidates": {
+        "constituencies": [
+          {
+            "list": [
+              {
+                "name": "Jón Þór Ólafsson"
+              }, 
+              {
+                "name": "Ásta Helgadóttir"
+              }, 
+              {
+                "name": "Sigurbjörg Erla Egilsdóttir"
+              }, 
+              {
+                "name": "Sigríður Fossberg Thorlacius"
+              }, 
+              {
+                "name": "Arnaldur Sigurðarson"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi suður"
+          }, 
+          {
+            "list": [
+              {
+                "name": "Smári McCarthy"
+              }, 
+              {
+                "name": "Halldór Berg Harðarson"
+              }, 
+              {
+                "name": "Björn Þór Jóhannesson"
+              }, 
+              {
+                "name": "Svafar Helgason"
+              }, 
+              {
+                "name": "Ágústa Erlingsdóttir"
+              }
+            ], 
+            "name": "Suðurkjördæmi"
+          }, 
+          {
+            "list": [
+              {
+                "name": "Aðalheiður Ámundadóttir"
+              }, 
+              {
+                "name": "Þórgnýr Thoroddsen"
+              }, 
+              {
+                "name": "Helgi Laxdal"
+              }, 
+              {
+                "name": "Kristín Elfa Guðnadóttir"
+              }, 
+              {
+                "name": "Bjarki Sigursveinsson"
+              }
+            ], 
+            "name": "Norðausturkjördæmi"
+          }, 
+          {
+            "list": [
+              {
+                "name": "Birgitta Jónsdóttir"
+              }, 
+              {
+                "name": "Björn Leví Gunnarsson"
+              }, 
+              {
+                "name": "Hákon Einar Júlíusson"
+              }, 
+              {
+                "name": "Árni Þór Þorgeirsson"
+              }, 
+              {
+                "name": "Berglind Ósk Bergsdóttir"
+              }
+            ], 
+            "name": "Suðvesturkjördæmi"
+          }, 
+          {
+            "list": [
+              {
+                "name": "Helgi Hrafn Gunnarsson"
+              }, 
+              {
+                "name": "Halldóra Mogensen"
+              }, 
+              {
+                "name": "Bjarni Rúnar Einarsson"
+              }, 
+              {
+                "name": "Salvör Kristjana Gissurardóttir"
+              }, 
+              {
+                "name": "Þórður Sveinsson"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi norður"
+          }, 
+          {
+            "list": [
+              {
+                "name": "Hildur Sif Thorarensen"
+              }, 
+              {
+                "name": "Herbert Snorrason"
+              }, 
+              {
+                "name": "Guðrún Ágústa Þórdísardóttir"
+              }, 
+              {
+                "name": "Stefán Vignir Skarphéðinsson"
+              }, 
+              {
+                "name": "Tómas Árni Jónasson"
+              }
+            ], 
+            "name": "Norðvesturkjördæmi"
+          }
+        ], 
+        "url": "http://www.piratar.is/2013/03/allir-frambodslistar-skipadir/"
+      }, 
       "name": "Píratar", 
       "letter": "Þ"
     }
