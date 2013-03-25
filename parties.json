@@ -1412,6 +1412,80 @@
     }, 
     {
       "url": "http://xlvaktin.is", 
+      "candidates": {
+        "constituencies": [
+          {
+            "list": [
+              {
+                "name": "Þórhildur Þorleifsdóttir"
+              }, 
+              {
+                "name": "Örn Bárður Jónsson"
+              }, 
+              {
+                "name": "Íris Erlingsdóttir"
+              }, 
+              {
+                "name": "Guðbjörn Guðbjörnsson"
+              }, 
+              {
+                "name": "Jónas Guðmundsson"
+              }, 
+              {
+                "name": "Sólveig Guðmundsdóttir"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi suður"
+          }, 
+          {
+            "list": [
+              {
+                "name": "Þorvaldur Gylfason"
+              }, 
+              {
+                "name": "Egill Ólafsson"
+              }, 
+              {
+                "name": "Sigríður Ólafsdóttir"
+              }, 
+              {
+                "name": "Viktor Orri Valgarðsson"
+              }, 
+              {
+                "name": "Jenný Stefanía Jensdóttir"
+              }, 
+              {
+                "name": "Arnfríður Guðmundsdóttir"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi norður"
+          }, 
+          {
+            "list": [
+              {
+                "name": "Lýður Árnason"
+              }, 
+              {
+                "name": "Ástrós Signýjardóttir"
+              }, 
+              {
+                "name": "Friðrik Hansen Guðmundsson"
+              }, 
+              {
+                "name": "Guðrún Guðlaugsdóttir"
+              }, 
+              {
+                "name": "Árni Stefán Árnason"
+              }, 
+              {
+                "name": "Þórdís Björk Sigurþórsdóttir"
+              }
+            ], 
+            "name": "Suðvesturkjördæmi"
+          }
+        ], 
+        "url": "http://xlvaktin.is/frambjodendur/"
+      }, 
       "name": "Lýðræðisvaktin", 
       "letter": "L"
     }, 
