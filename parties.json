@@ -1278,6 +1278,116 @@
     }, 
     {
       "url": "http://www.afram-island.is/", 
+      "candidates": {
+        "constituencies": [
+          {
+            "url": "http://www.afram-island.is/frambjodendur/reykjavik-sudur/", 
+            "list": [
+              {
+                "name": "Jón E Árnason"
+              }, 
+              {
+                "name": "Pétur Fjeldsted Einarsson"
+              }, 
+              {
+                "name": "Sigurður Ingólfsson"
+              }, 
+              {
+                "name": "Katrín Guðjónsdóttir"
+              }, 
+              {
+                "name": "Kristján Árni Kristjánsson"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi suður"
+          }, 
+          {
+            "url": "http://www.afram-island.is/frambjodendur/reykjavik-nordur/", 
+            "list": [
+              {
+                "name": "Kjartan Örn Kjartansson"
+              }, 
+              {
+                "name": "Björn Torfi Hauksson"
+              }, 
+              {
+                "name": "Kristján Orri Jóhannsson"
+              }, 
+              {
+                "name": "Guðríður Eiríksdóttir"
+              }, 
+              {
+                "name": "Grétar Ómarsson"
+              }
+            ], 
+            "name": "Reykjavíkurkjördæmi norður"
+          }, 
+          {
+            "url": "http://www.afram-island.is/frambjodendur/sudurkjordaemi/", 
+            "list": [
+              {
+                "name": "Sigursveinn Þórðarson"
+              }, 
+              {
+                "name": "Agla Þýrí Kristjánsdóttir"
+              }, 
+              {
+                "name": "Axel Óli Ægisson"
+              }, 
+              {
+                "name": "Þórarinn Björn Steinsson"
+              }, 
+              {
+                "name": "Jón Birgir Indriðason"
+              }
+            ], 
+            "name": "Suðurkjördæmi"
+          }, 
+          {
+            "url": "http://www.afram-island.is/frambjodendur/nordvesturkjordaemi/", 
+            "list": [
+              {
+                "name": "Sigurjón Haraldsson"
+              }, 
+              {
+                "name": "Íris Dröfn Kristjánsdóttir"
+              }, 
+              {
+                "name": "Jón Ingi Magnússon"
+              }, 
+              {
+                "name": "Guðbrandur Jónatansson"
+              }, 
+              {
+                "name": "Haraldur Kristján Ólason"
+              }
+            ], 
+            "name": "Norðvesturkjördæmi"
+          }, 
+          {
+            "url": "http://www.afram-island.is/frambjodendur/sudvesturkjordaemi/", 
+            "list": [
+              {
+                "name": "Guðmundur Franklín Jónsson"
+              }, 
+              {
+                "name": "Týr Þórarinsson "
+              }, 
+              {
+                "name": "Magnús Þórarinn Thorlacius"
+              }, 
+              {
+                "name": "Helgi Helgason"
+              }, 
+              {
+                "name": "Böðvar Guðmundsson"
+              }
+            ], 
+            "name": "Suðvesturkjördæmi"
+          }
+        ], 
+        "url": "http://www.afram-island.is/frambjodendur/"
+      }, 
       "name": "Hægri grænir, flokkur fólksins", 
       "letter": "G"
     }, 
