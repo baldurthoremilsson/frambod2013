@@ -73,19 +73,19 @@ $(function() {
   var constituencies = $('#constituencies');
   var candidates = $('#candidates');
 
-  $.getJSON('parties.json', function(data) {
+  $.getJSON('data/parties.json', function(data) {
     parties_list(parties, data);
     candidates_list(candidates, data);
   });
 
-  $.getJSON('constituencies.json', function(data) {
+  $.getJSON('data/constituencies.json', function(data) {
     for(var name in data) {
       constituencies.append(constituency_li(name, data[name]));
     }
   });
 
   return;
-  $.get('candidates.json', function(data) {
+  $.get('data/candidates.json', function(data) {
     for(var partyName in data) {
       candidates.append(candidate_list(partyName, data[partyName]));
     }
