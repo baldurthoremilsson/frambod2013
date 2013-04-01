@@ -10,6 +10,16 @@ var link = function(value, url) {
 
 var Party = Backbone.Model.extend({
   urlRoot: 'data/',
+  defaults: function() {
+    return {populated: false};
+  },
+  initialize: function() {
+    this.on('change', function() {
+      if(this.get('populated'))
+        return;
+      this.set({populated: true,});
+    });
+  },
 });
 
 
@@ -45,7 +55,7 @@ var PartyListView = Backbone.View.extend({
   },
   render: function() {
     this.$el.empty();
-    var parties = this.collection.slice();
+    var parties = this.collection.where({populated: true});
     for(var i = 0; i < parties.length; i++) {
       var party = new PartyView({model: parties[i]});
       this.$el.append(party.render().el);
