@@ -46,6 +46,26 @@ var PartyList = Backbone.Collection.extend({
   },
 });
 
+var ConstituencyList = Backbone.Collection.extend({
+  url: 'data/constituencies.json',
+  comparator: 'name',
+  populate: function() {
+    var options = {
+      success: _.bind(this.populateHandler, this),
+    };
+    this.sync('read', this, options);
+  },
+  populateHandler: function(constituencies) {
+    for(var name in constituencies) {
+      var data = constituencies[name];
+      data.name = name;
+      var constituency = new Backbone.Model(data);
+      this.add(constituency);
+    }
+    this.trigger('render');
+  },
+});
+
 
 // views
 
@@ -63,7 +83,18 @@ var PartyListView = Backbone.View.extend({
   },
 });
 
-var ConstituenciesView = Backbone.View.extend({
+var ConstituencyListView = Backbone.View.extend({
+  initialize: function() {
+    this.listenTo(this.collection, 'render', this.render);
+  },
+  render: function() {
+    this.$el.empty();
+    var constituencies = this.collection.slice();
+    for(var i = 0; i < constituencies.length; i++) {
+      var constituency = new ConstituencyView({model: constituencies[i]});
+      this.$el.append(constituency.render().el);
+    }
+  },
 });
 
 var PartyView = Backbone.View.extend({
@@ -76,19 +107,35 @@ var PartyView = Backbone.View.extend({
   },
 });
 
+var ConstituencyView = Backbone.View.extend({
+  tagName: 'li',
+  render: function() {
+    var attrs = this.model.attributes;
+    this.$el.append(link(attrs.name, attrs.url));
+    return this;
+  },
+});
+
 var AppView = Backbone.View.extend({
   initialize: function() {
-    this.partyCollection = new PartyList;
     this.partylist = this.$('#partylist');
     this.constituencies = this.$('#constituencies');
     this.parties = this.$('#parties');
+
+    this.partyCollection = new PartyList;
+    this.constituencyCollection = new ConstituencyList;
 
     new PartyListView({
       collection: this.partyCollection,
       el: this.partylist,
     });
+    new ConstituencyListView({
+      collection: this.constituencyCollection,
+      el: this.constituencies,
+    });
 
     this.partyCollection.populate();
+    this.constituencyCollection.populate();
   },
 });
 
