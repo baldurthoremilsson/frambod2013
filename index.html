@@ -6,8 +6,10 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <link href='//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css' rel='stylesheet'>
     <script src='//code.jquery.com/jquery-1.9.1.min.js'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.1.0/lodash.min.js'></script>
     <script src='//raw.github.com/KoryNunn/crel/2a704f4c08cd9b671ac9bee89069278d4d9d89c6/crel.js'></script>
     <script src='//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js'></script>
+    <script src='//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js'></script>
     <script src='script.js'></script>
     <style>
       body {
@@ -36,7 +38,7 @@
         </div>
       </div>
     </div>
-    <div class='container'>
+    <div class='container' id='frambod2013'>
       <h1>Framboð til Alþingiskosninga 2013</h1>
       <h2>Flokkar í framboði</h2>
       <p>
@@ -45,7 +47,7 @@
         <a href='http://www.kosning.is/althingiskosningar/frettir/nr/8071'>frétt 8071</a> á
         <a href='http://www.kosning.is'>www.kosning.is</a>.
       </p>
-      <ul id='parties'>
+      <ul id='partylist'>
       </ul>
 
       <h2>Kjördæmi</h2>
@@ -62,7 +64,7 @@
         Nokkur framboð hafa raðað á framboðslista. Hér eru þeir ásamt upplýsingum
         um þingsetu og embættisstörf frambjóðenda.
       </p>
-      <div id='candidates'>
+      <div id='partyinfo'>
       </div>
     </div>
   </body>
