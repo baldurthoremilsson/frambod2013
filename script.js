@@ -69,6 +69,16 @@ var ConstituencyList = Backbone.Collection.extend({
 
 // views
 
+var PartyView = Backbone.View.extend({
+  tagName: 'li',
+  render: function() {
+    var attrs = this.model.attributes;
+    this.$el.append(link(attrs.name, attrs.url));
+    this.$el.append(' (' + attrs.letter + ')');
+    return this;
+  },
+});
+
 var PartyListView = Backbone.View.extend({
   initialize: function() {
     this.listenTo(this.collection, 'change', this.render);
@@ -83,6 +93,15 @@ var PartyListView = Backbone.View.extend({
   },
 });
 
+var ConstituencyView = Backbone.View.extend({
+  tagName: 'li',
+  render: function() {
+    var attrs = this.model.attributes;
+    this.$el.append(link(attrs.name, attrs.url));
+    return this;
+  },
+});
+
 var ConstituencyListView = Backbone.View.extend({
   initialize: function() {
     this.listenTo(this.collection, 'render', this.render);
@@ -94,25 +113,6 @@ var ConstituencyListView = Backbone.View.extend({
       var constituency = new ConstituencyView({model: constituencies[i]});
       this.$el.append(constituency.render().el);
     }
-  },
-});
-
-var PartyView = Backbone.View.extend({
-  tagName: 'li',
-  render: function() {
-    var attrs = this.model.attributes;
-    this.$el.append(link(attrs.name, attrs.url));
-    this.$el.append(' (' + attrs.letter + ')');
-    return this;
-  },
-});
-
-var ConstituencyView = Backbone.View.extend({
-  tagName: 'li',
-  render: function() {
-    var attrs = this.model.attributes;
-    this.$el.append(link(attrs.name, attrs.url));
-    return this;
   },
 });
 
