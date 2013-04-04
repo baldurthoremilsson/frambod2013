@@ -1,0 +1,34 @@
+{
+  "candidates": {
+    "constituencies": [
+      {
+        "list": [
+          {
+            "gender": "m", 
+            "name": "Jón Bjarnason"
+          }, 
+          {
+            "gender": "f", 
+            "name": "Arnþrúður Heimisdóttir"
+          }, 
+          {
+            "gender": "f", 
+            "name": "Barbara Ósk Guðbjartsdóttir"
+          }, 
+          {
+            "gender": "m", 
+            "name": "Gísli Árnason"
+          }, 
+          {
+            "gender": "m", 
+            "name": "Sigurður Oddur Ragnarsson"
+          }
+        ], 
+        "name": "Norðvesturkjördæmi",
+        "url": "http://www.feykir.is/archives/65569"
+      }
+    ]
+  }, 
+  "name": "Regnboginn - framboð fyrir sjálfstæði Íslands og sjálfbæra þróun", 
+  "letter": "J"
+}
