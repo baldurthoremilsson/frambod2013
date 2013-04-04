@@ -61,19 +61,18 @@ var PartyList = Backbone.Collection.extend({
   },
   populateHandler: function(partylist) {
     var counter = partylist.parties.length;
-    var always = function() {
-      counter--;
-      if(counter == 0)
-        this.trigger('loaded');
-    };
-    for(var i = 0; i < partylist.parties.length; i++) {
+    _.each(partylist.parties, function(partyId) {
       var party = new Party({
-        id: partylist.parties[i],
+        id: partyId,
       });
-      this.add(party);
       var jqXHR = party.fetch();
-      jqXHR.always(_.bind(always, this));
-    }
+      jqXHR.always(_.bind(function() {
+        this.add(party);
+        counter--;
+        if(counter == 0)
+          this.trigger('loaded');
+      }, this));
+    }, this);
   },
 });
 
@@ -115,7 +114,7 @@ var PartyView = Backbone.View.extend({
 
 var PartyListView = Backbone.View.extend({
   initialize: function() {
-    this.listenTo(this.collection, 'change', this.render);
+    this.listenTo(this.collection, 'loaded', this.render);
   },
   render: function() {
     this.$el.empty();
@@ -258,6 +257,7 @@ var AppView = Backbone.View.extend({
 
     this.partyCollection.populate();
     this.constituencyCollection.populate();
+    window.dd = this.partyCollection;
   },
 });
 
