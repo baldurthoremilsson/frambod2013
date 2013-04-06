@@ -220,7 +220,7 @@ var PartyInfoListView = Backbone.View.extend({
   },
   render: function() {
     this.$el.empty();
-    var ul = crel('ul');
+    var ul = crel('ul', {class: 'nostyle'});
     for(var i = 0; i < this.collection.length; i++) {
       var party = this.collection.at(i);
       if(!party.get('candidates'))
