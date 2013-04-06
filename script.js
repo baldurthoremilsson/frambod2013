@@ -151,15 +151,70 @@ var ConstituencyListView = Backbone.View.extend({
 
 var PartyInfoView = Backbone.View.extend({
   tagName: 'li',
+  events: {
+    'click .display5': 'display5',
+    'click .displayall': 'displayall',
+    'click .hideall': 'hideall',
+  },
   render: function() {
     var name = this.model.get('name');
     var candidates = this.model.get('candidates');
     var table = new CandidatesTable({collection: this.model.candidatesAll});
+    var candidateLists = this.renderCandidates();
+
     this.$el.append(crel('h3', name));
     this.$el.append(crel('div', {class: 'row'},
         crel('div', {class: 'span4'}, table.render().el)
     ));
+    this.$el.append(this.controls);
+    this.$el.append(candidateLists);
+
     return this;
+  },
+  controls: function() {
+    return crel('div', {class: 'controls'},
+      'Birta frambjóðendur:',
+      crel('button', {class: 'btn btn-link display5'}, '5 efstu'),
+      crel('button', {class: 'btn btn-link displayall'}, 'alla á lista'),
+      crel('button', {class: 'btn btn-link hideall hidden'}, 'fela lista')
+    );
+  },
+  renderCandidates: function() {
+    var container = crel('div', {class: 'candidates hidden'});
+    var constituencies = this.model.constituencies.slice();
+
+    for(var i = 0; i < constituencies.length; i++) {
+      var constituency = constituencies[i];
+      var candidates = new CandidatesList({collection: constituencies[i].candidates});
+      container.appendChild(crel('h4', constituency.get('name')));
+      container.appendChild(candidates.render().el);
+    }
+    return container;
+  },
+  display5: function() {
+    // hide all but the first five on each list
+    this.$('.candidates ol > li:nth-child(n+6)').hide();
+    this.$('.candidates').removeClass('hidden');
+
+    this.$('.display5').prop('disabled', true);
+    this.$('.displayall').prop('disabled', false);
+    this.$('.hideall').removeClass('hidden');
+  },
+  displayall: function() {
+    // show all candidates in case they have been hidden
+    this.$('.candidates ol > li').show();
+    this.$('.candidates').removeClass('hidden');
+
+    this.$('.display5').prop('disabled', false);
+    this.$('.displayall').prop('disabled', true);
+    this.$('.hideall').removeClass('hidden');
+  },
+  hideall: function() {
+    this.$('.candidates').addClass('hidden');
+
+    this.$('.display5').prop('disabled', false);
+    this.$('.displayall').prop('disabled', false);
+    this.$('.hideall').addClass('hidden');
   },
 });
 
@@ -211,6 +266,18 @@ var CandidatesTable = Backbone.View.extend({
     });
     var all = this.all.where({gender: 'm'});
     return this.row('Karlar', top5.length, all.length);
+  },
+});
+
+var CandidatesList = Backbone.View.extend({
+  tagName: 'ol',
+  className: 'candidatelist',
+  render: function() {
+    var candidates = this.collection.slice();
+    for(var i = 0; i < candidates.length; i++) {
+      this.$el.append(crel('li', candidates[i].get('name')));
+    }
+    return this;
   },
 });
 
