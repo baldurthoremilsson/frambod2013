@@ -82,21 +82,6 @@ var CandidateList = Backbone.Collection.extend({
 var ConstituencyList = Backbone.Collection.extend({
   url: 'data/constituencies.json',
   comparator: 'name',
-  populate: function() {
-    var options = {
-      success: _.bind(this.populateHandler, this),
-    };
-    this.sync('read', this, options);
-  },
-  populateHandler: function(constituencies) {
-    for(var name in constituencies) {
-      var data = constituencies[name];
-      data.name = name;
-      var constituency = new Backbone.Model(data);
-      this.add(constituency);
-    }
-    this.trigger('render');
-  },
 });
 
 
@@ -137,7 +122,7 @@ var ConstituencyView = Backbone.View.extend({
 
 var ConstituencyListView = Backbone.View.extend({
   initialize: function() {
-    this.listenTo(this.collection, 'render', this.render);
+    this.listenTo(this.collection, 'sync', this.render);
   },
   render: function() {
     this.$el.empty();
@@ -323,7 +308,7 @@ var AppView = Backbone.View.extend({
     });
 
     this.partyCollection.populate();
-    this.constituencyCollection.populate();
+    this.constituencyCollection.fetch();
     window.dd = this.partyCollection;
   },
 });

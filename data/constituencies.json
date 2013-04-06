@@ -1,11 +1,13 @@
-{
-  "Reykjavíkurkjördæmi suður": {
+[
+  {
+    "name": "Reykjavíkurkjördæmi suður",
     "url": "http://www.kosning.is/althingiskosningar/kjordaemi/reykjavik-sudur/", 
     "municipalities": [
       "Reykjavík"
     ]
   }, 
-  "Suðurkjördæmi": {
+  {
+    "name": "Suðurkjördæmi",
     "url": "http://www.kosning.is/althingiskosningar/kjordaemi/sudurkjordaemi/", 
     "municipalities": [
       "Sveitarfélagið Hornafjörður", 
@@ -30,7 +32,8 @@
       "Sveitarfélagið Vogar"
     ]
   }, 
-  "Norðausturkjördæmi": {
+  {
+    "name": "Norðausturkjördæmi",
     "url": "http://www.kosning.is/althingiskosningar/kjordaemi/nordausturkjordaemi/", 
     "municiapalities": [
       "Fjallabyggð", 
@@ -56,7 +59,8 @@
       "Djúpavogshreppur"
     ]
   }, 
-  "Suðvesturkjördæmi": {
+  {
+    "name": "Suðvesturkjördæmi",
     "url": "http://www.kosning.is/althingiskosningar/kjordaemi/sudvesturkjordaemi/", 
     "municipalities": [
       "Hafnarfjarðarkaupstaður", 
@@ -67,13 +71,15 @@
       "Kjósarhreppur"
     ]
   }, 
-  "Reykjavíkurkjördæmi norður": {
+  {
+    "name": "Reykjavíkurkjördæmi norður",
     "url": "http://www.kosning.is/althingiskosningar/kjordaemi/reykjavik-nordur/", 
     "municipalities": [
       "Reykjavík"
     ]
   }, 
-  "Norðvesturkjördæmi": {
+  {
+    "name": "Norðvesturkjördæmi",
     "url": "http://www.kosning.is/althingiskosningar/kjordaemi/nordvesturkjordaemi/", 
     "municipalities": [
       "Akraneskaupstaður", 
@@ -103,4 +109,4 @@
       "Akrahreppur"
     ]
   }
-}
+]
