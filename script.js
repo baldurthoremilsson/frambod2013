@@ -111,12 +111,56 @@ var PartyListView = Backbone.View.extend({
   },
 });
 
+var MunicipalitiesView = Backbone.View.extend({
+  tagName: 'ul',
+  initialize: function() {
+    this.municipalities = this.model.get('municipalities');
+    this.municipalities.sort();
+  },
+  render: function() {
+    for(var i = 0; i < this.municipalities.length; i++) {
+      this.$el.append(crel('li', this.municipalities[i]));
+    }
+    return this;
+  },
+});
+
 var ConstituencyView = Backbone.View.extend({
   tagName: 'li',
+  events: {
+    'click .showinfo': 'showinfo',
+    'click .hideinfo': 'hideinfo',
+  },
   render: function() {
     var attrs = this.model.attributes;
-    this.$el.append(link(attrs.name, attrs.url));
+    var seatsTotal = attrs.seats + attrs.seatsatlarge;
+
+    var municipalities = new MunicipalitiesView({model: this.model});
+
+    this.$el.append(attrs.name + ' (' + seatsTotal + ')');
+    this.$el.append(crel('button', {class: 'btn btn-link showinfo'}, 'Nánar'));
+    this.$el.append(crel('button', {class: 'btn btn-link hidden hideinfo'}, 'Fela'));
+    this.$el.append(crel('div', {class: 'hidden info'},
+      crel('div',
+        'Þingsæti: ' + attrs.seats, crel('br'),
+        'Jöfnunarþingsæti: ' + attrs.seatsatlarge
+      ),
+      'Sveitarfélög í kjördæminu:',
+      municipalities.render().el
+    ));
     return this;
+  },
+  showinfo: function() {
+    this.$('.info').removeClass('hidden');
+
+    this.$('.showinfo').addClass('hidden');
+    this.$('.hideinfo').removeClass('hidden');
+  },
+  hideinfo: function() {
+    this.$('.info').addClass('hidden');
+
+    this.$('.showinfo').removeClass('hidden');
+    this.$('.hideinfo').addClass('hidden');
   },
 });
 
