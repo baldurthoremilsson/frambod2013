@@ -353,7 +353,6 @@ var AppView = Backbone.View.extend({
 
     this.partyCollection.populate();
     this.constituencyCollection.fetch();
-    window.dd = this.partyCollection;
   },
 });
 
