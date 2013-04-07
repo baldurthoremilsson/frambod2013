@@ -14,6 +14,8 @@ var Party = Backbone.Model.extend({
     return {populated: false};
   },
   initialize: function(data) {
+    // the id without .json, used for direct links
+    this.anchor = this.id.slice(0, this.id.length-5);
     this.on('change', function() {
       if(this.get('populated'))
         return;
@@ -111,6 +113,24 @@ var PartyListView = Backbone.View.extend({
   },
 });
 
+var PartyMenuView = Backbone.View.extend({
+  initialize: function() {
+    this.listenTo(this.collection, 'loaded', this.render);
+  },
+  render: function() {
+    var parties = this.collection.slice();
+    for(var i = 0; i < parties.length; i++) {
+      if(!parties[i].get('candidates'))
+        continue;
+      console.log(this.el);
+      this.$el.append(crel('li',
+        crel('a', {href: '#' + parties[i].anchor},
+          parties[i].get('letter') + ' - ' + parties[i].get('name'))
+      ));
+    }
+  },
+});
+
 var MunicipalitiesView = Backbone.View.extend({
   tagName: 'ul',
   initialize: function() {
@@ -180,6 +200,7 @@ var ConstituencyListView = Backbone.View.extend({
 
 var PartyInfoView = Backbone.View.extend({
   tagName: 'li',
+  className: 'anchored',
   events: {
     'click .display5': 'display5',
     'click .displayall': 'displayall',
@@ -197,6 +218,8 @@ var PartyInfoView = Backbone.View.extend({
     ));
     this.$el.append(this.controls);
     this.$el.append(candidateLists);
+
+    this.$el.append(crel('a', {class: 'anchor', name: this.model.anchor}));
 
     return this;
   },
@@ -331,6 +354,8 @@ var PartyInfoListView = Backbone.View.extend({
 
 var AppView = Backbone.View.extend({
   initialize: function() {
+    this.partymenu = $('#partyinfo-menulist');
+    console.log(this.partymenu);
     this.partylist = this.$('#partylist');
     this.constituencies = this.$('#constituencies');
     this.partyinfo = this.$('#partyinfo');
@@ -349,6 +374,10 @@ var AppView = Backbone.View.extend({
     new PartyInfoListView({
       collection: this.partyCollection,
       el: this.partyinfo,
+    });
+    new PartyMenuView({
+      collection: this.partyCollection,
+      el: this.partymenu,
     });
 
     this.partyCollection.populate();

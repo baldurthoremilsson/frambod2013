@@ -21,6 +21,13 @@
       ul.nostyle > li {
         list-style: none;
       }
+      .anchored {
+        position: relative;
+      }
+      a.anchor {
+        position: absolute;
+        top: -40px;
+      }
     </style>
   </head>
   <body>
@@ -37,7 +44,11 @@
             <ul class='nav'>
               <li><a href='#flokkar'>Flokkar</a></li>
               <li><a href='#kjordaemi'>Kjördæmi</a></li>
-              <li><a href='#frambodslistar'>Framboðslistar</a></li>
+              <li class='dropdown'>
+                <a class='dropdown-toggle' data-toggle='dropdown' href='#frambodslistar'>Framboðslistar <b class='caret'></b></a>
+                <ul class='dropdown-menu' id='partyinfo-menulist'>
+                </ul>
+              </li>
               <li><a href='#fjarmal'>Fjármál</a></li>
             </ul>
           </div>
@@ -47,7 +58,7 @@
     <div class='container' id='frambod2013'>
       <h1>Framboð til Alþingiskosninga 2013</h1>
 
-      <h2 id='flokkar'>Flokkar í framboði</h2>
+      <h2 class='anchored'>Flokkar í framboði<a name='flokkar' class='anchor'></a></h2>
       <p>
         Eftirfarandi framboð hafa fengið listabókstaf samkvæmt fréttum
         <a href='http://www.kosning.is/althingiskosningar/frettir/nr/8023'>8023</a>,
@@ -58,7 +69,7 @@
       <ul id='partylist'>
       </ul>
 
-      <h2 id='kjordaemi'>Kjördæmi</h2>
+      <h2 class='anchored'>Kjördæmi<a name='kjordaemi' class='anchor'></a></h2>
       <p>
         Á Íslandi eru eftirfarandi <a href='http://www.kosning.is/althingiskosningar/kjordaemi/'>kjördæmi</a>.
         Kort sem sýnir kjördæmaskiptinguna má nálgast á
@@ -67,7 +78,7 @@
       <ul id='constituencies'>
       </ul>
 
-      <h2 id='frambodslistar'>Framboðslistar</h2>
+      <h2 class='anchored'>Framboðslistar<a name='frambodslistar' class='anchor'></a></h2>
       <p>
         Nokkur framboð hafa raðað á framboðslista. Hér eru þeir ásamt upplýsingum
         um þingsetu og embættisstörf frambjóðenda.
@@ -75,7 +86,7 @@
       <div id='partyinfo'>
       </div>
 
-      <h2 id='fjarmal'>Fjármál</h2>
+      <h2 class='anchored'>Fjármál<a name='fjarmal' class='anchor'></a></h2>
 
     </div>
   </body>
